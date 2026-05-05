@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "Você pode usar o FanControl sem este driver, mas todos os sensores integrados relacionados ao LibreHardwareMonitor ficarão indisponíveis.",
   "PawnIoInformationPart4": "Outros provedores de sensores como NvAPI, ADLX e plugins continuarão funcionando normalmente.",
   "PawnIoInstallationRequired": "Instalação do PawnIO necessária",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Mensagem do desenvolvedor do Fan Control",
   "PaypalDialogPart2": "Olá! Aqui é o Rémi.",
   "PaypalDialogPart3a": "Vejo que você configurou algumas curvas de ventoinha, isso é incrível! 🚀🙌",

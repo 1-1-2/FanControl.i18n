@@ -1,4 +1,4 @@
-{
+﻿{
   "AscendingRpmValues": "Giá trị RPM tăng dần",
   "CalibrationCommand": "Lệnh (%)",
   "CalibrationControlCardInstructions": "Dùng thẻ sau để điều chỉnh % quạt và quan sát RPM của nó.",
@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "Bạn có thể dùng FanControl mà không có driver này, nhưng tất cả cảm biến tích hợp liên quan đến LibreHardwareMonitor sẽ không khả dụng.",
   "PawnIoInformationPart4": "Các nhà cung cấp cảm biến khác như NvAPI, ADLX và plugin vẫn hoạt động như bình thường.",
   "PawnIoInstallationRequired": "Yêu cầu cài đặt PawnIO",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Thông điệp từ nhà phát triển Fan Control",
   "PaypalDialogPart2": "Xin chào! Rémi đây.",
   "PaypalDialogPart3a": "Tôi thấy bạn đã có vài đường cong quạt, tuyệt vời! 🚀🙌",

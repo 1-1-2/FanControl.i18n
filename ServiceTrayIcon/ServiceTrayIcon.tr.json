@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Yapılandırmayı değiştir",
+  "CurrentConfigFormat": "Geçerli yapılandırma: {0}",
+  "CurrentConfigNone": "(yok)",
+  "CurrentConfigUnavailable": "Geçerli yapılandırma: kullanılamıyor",
+  "CurrentConfigUnknown": "Geçerli yapılandırma: bilinmiyor",
+  "ExitClient": "İstemciden çık",
+  "NoConfigsFound": "(Yapılandırma bulunamadı)",
+  "OpenFanControlStopService": "FanControl'ü aç (servisi durdur)",
+  "RestartSensorDetection": "Sensör algılamayı yeniden başlat",
+  "ServiceChecking": "Servis: kontrol ediliyor...",
+  "ServiceNotRunning": "Servis: çalışmıyor",
+  "ServiceRunning": "Servis: çalışıyor",
+  "ServiceUnavailable": "(Servis kullanılamıyor)",
+  "Tooltip": "FanControl Servis İstemcisi"
+}

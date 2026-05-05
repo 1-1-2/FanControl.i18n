@@ -5,5 +5,7 @@
   "SampleText": "Näyteteksti",
   "Secondary": "Toissijainen",
   "SyncThemeWindows": "Käytä Windosin astuksia vastaavaa teemaa",
-  "Theme": "Teema"
+  "Theme": "Teema",
+  "ThemeDark": "Tumma",
+  "ThemeLight": "Vaalea"
 }

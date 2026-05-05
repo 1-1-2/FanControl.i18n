@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Thay đổi cấu hình",
+  "CurrentConfigFormat": "Cấu hình hiện tại: {0}",
+  "CurrentConfigNone": "(không có)",
+  "CurrentConfigUnavailable": "Cấu hình hiện tại: không khả dụng",
+  "CurrentConfigUnknown": "Cấu hình hiện tại: không xác định",
+  "ExitClient": "Thoát ứng dụng khách",
+  "NoConfigsFound": "(Không tìm thấy cấu hình)",
+  "OpenFanControlStopService": "Mở FanControl (dừng dịch vụ)",
+  "RestartSensorDetection": "Khởi động lại phát hiện cảm biến",
+  "ServiceChecking": "Dịch vụ: đang kiểm tra...",
+  "ServiceNotRunning": "Dịch vụ: không chạy",
+  "ServiceRunning": "Dịch vụ: đang chạy",
+  "ServiceUnavailable": "(Dịch vụ không khả dụng)",
+  "Tooltip": "Ứng dụng khách dịch vụ FanControl"
+}

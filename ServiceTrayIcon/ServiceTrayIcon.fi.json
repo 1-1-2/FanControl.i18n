@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Vaihda kokoonpanoa",
+  "CurrentConfigFormat": "Nykyinen kokoonpano: {0}",
+  "CurrentConfigNone": "(ei mitään)",
+  "CurrentConfigUnavailable": "Nykyinen kokoonpano: ei saatavilla",
+  "CurrentConfigUnknown": "Nykyinen kokoonpano: tuntematon",
+  "ExitClient": "Poistu asiakkaasta",
+  "NoConfigsFound": "(Kokoonpanoja ei löytynyt)",
+  "OpenFanControlStopService": "Avaa FanControl (pysäytä palvelu)",
+  "RestartSensorDetection": "Käynnistä anturien tunnistus uudelleen",
+  "ServiceChecking": "Palvelu: tarkistetaan...",
+  "ServiceNotRunning": "Palvelu: ei käynnissä",
+  "ServiceRunning": "Palvelu: käynnissä",
+  "ServiceUnavailable": "(Palvelu ei ole saatavilla)",
+  "Tooltip": "FanControl-palveluasiakas"
+}

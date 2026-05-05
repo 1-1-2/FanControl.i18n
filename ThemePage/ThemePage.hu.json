@@ -5,5 +5,7 @@
   "SampleText": "Példa szöveg",
   "Secondary": "Másodlagos",
   "SyncThemeWindows": "Téma szinkronizálása a Windows-al",
-  "Theme": "Téma"
+  "Theme": "Téma",
+  "ThemeDark": "Sötét",
+  "ThemeLight": "Világos"
 }

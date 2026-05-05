@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "Voit käyttää Fan Controlia ilman tätä ajuria, mutta kaikki LibreHardwareMonitoriin liittyvät sisäänrakennetut anturit eivät ole käytettävissä.",
   "PawnIoInformationPart4": "Muut anturien tarjoajat, kuten NvAPI, ADLX ja liitännäiset toimivat edelleen normaalisti.",
   "PawnIoInstallationRequired": "PawnIO-ajurin asennus vaaditaan",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Viesti Fan Controlin kehittäjältä",
   "PaypalDialogPart2": "Hei siellä! Minä olen Rémi.",
   "PaypalDialogPart3a": "Näytät saaneen muutamia tuulettimien säätökäyriä käyttöön. Hienoa! 🚀🙌",

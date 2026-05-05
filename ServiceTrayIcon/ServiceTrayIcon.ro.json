@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Schimbă configurația",
+  "CurrentConfigFormat": "Configurația curentă: {0}",
+  "CurrentConfigNone": "(niciuna)",
+  "CurrentConfigUnavailable": "Configurația curentă: indisponibilă",
+  "CurrentConfigUnknown": "Configurația curentă: necunoscută",
+  "ExitClient": "Ieșire client",
+  "NoConfigsFound": "(Nu s-au găsit configurații)",
+  "OpenFanControlStopService": "Deschide FanControl (oprește serviciul)",
+  "RestartSensorDetection": "Repornește detectarea senzorilor",
+  "ServiceChecking": "Serviciu: verificare...",
+  "ServiceNotRunning": "Serviciu: nu rulează",
+  "ServiceRunning": "Serviciu: rulează",
+  "ServiceUnavailable": "(Serviciu indisponibil)",
+  "Tooltip": "Client serviciu FanControl"
+}

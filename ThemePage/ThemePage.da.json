@@ -5,5 +5,7 @@
   "SampleText": "Eksempeltekst",
   "Secondary": "Sekundær",
   "SyncThemeWindows": "Synkroniser tema med Windows",
-  "Theme": "Tema"
+  "Theme": "Tema",
+  "ThemeDark": "Mørk",
+  "ThemeLight": "Lys"
 }

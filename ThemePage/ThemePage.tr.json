@@ -5,5 +5,7 @@
   "SampleText": "Örnek Metin",
   "Secondary": "İkincil",
   "SyncThemeWindows": "Temayı Windows ile senkronize et",
-  "Theme": "Tema"
+  "Theme": "Tema",
+  "ThemeDark": "Koyu",
+  "ThemeLight": "Açık"
 }

@@ -5,5 +5,7 @@
   "SampleText": "サンプルテキスト",
   "Secondary": "第二",
   "SyncThemeWindows": "Windowsのテーマと同期",
-  "Theme": "テーマ"
+  "Theme": "テーマ",
+  "ThemeDark": "ダーク",
+  "ThemeLight": "ライト"
 }

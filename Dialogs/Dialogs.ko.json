@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "이 드라이버 없이도 FanControl을 사용할 수 있지만, LibreHardwareMonitor 관련 내장 센서는 모두 사용할 수 없게 됩니다.",
   "PawnIoInformationPart4": "NvAPI, ADLX 및 플러그인과 같은 다른 센서 제공자는 평소처럼 작동할 것입니다.",
   "PawnIoInstallationRequired": "PawnIO 설치 필요",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Fan Control 개발자의 메세지",
   "PaypalDialogPart2": "안녕하세요! Rémi입니다.",
   "PaypalDialogPart3a": "팬 곡선이 잘 돌아가고 있는 것을 볼 수 있는데 정말 멋지네요! 🚀🙌",

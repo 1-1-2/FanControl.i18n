@@ -5,5 +5,7 @@
   "SampleText": "Δείγμα κειμένου",
   "Secondary": "Δευτερεύων",
   "SyncThemeWindows": "Συγχρονισμός θέματος με τα Windows",
-  "Theme": "Θέμα"
+  "Theme": "Θέμα",
+  "ThemeDark": "Σκούρο",
+  "ThemeLight": "Ανοιχτό"
 }

@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "ניתן להשתמש ב-Fan Control ללא מנהל התקן זה, אך כל החיישנים המובנים הקשורים ל-LibreHardwareMonitor לא יהיו זמינים.",
   "PawnIoInformationPart4": "ספקי חיישנים אחרים כמו NvAPI, ADLX ותוספים ימשיכו לעבוד כרגיל.",
   "PawnIoInstallationRequired": "נדרשת התקנת PawnIO",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "הודעה ממפתח Fan Control",
   "PaypalDialogPart2": "שלום! רימי כאן.",
   "PaypalDialogPart3a": "אני רואה שיצרת עקומות מאוורר, זה מדהים! 🚀🙌",

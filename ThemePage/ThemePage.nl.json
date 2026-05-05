@@ -5,5 +5,7 @@
   "SampleText": "Voorbeeldtekst",
   "Secondary": "Secundair",
   "SyncThemeWindows": "Thema synchroniseren met Windows",
-  "Theme": "Thema"
+  "Theme": "Thema",
+  "ThemeDark": "Donker",
+  "ThemeLight": "Licht"
 }

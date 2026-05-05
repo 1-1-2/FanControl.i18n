@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Змінити конфігурацію",
+  "CurrentConfigFormat": "Поточна конфігурація: {0}",
+  "CurrentConfigNone": "(немає)",
+  "CurrentConfigUnavailable": "Поточна конфігурація: недоступна",
+  "CurrentConfigUnknown": "Поточна конфігурація: невідома",
+  "ExitClient": "Вийти з клієнта",
+  "NoConfigsFound": "(Конфігурації не знайдено)",
+  "OpenFanControlStopService": "Відкрити FanControl (зупинити службу)",
+  "RestartSensorDetection": "Перезапустити виявлення датчиків",
+  "ServiceChecking": "Служба: перевірка...",
+  "ServiceNotRunning": "Служба: не запущена",
+  "ServiceRunning": "Служба: запущена",
+  "ServiceUnavailable": "(Служба недоступна)",
+  "Tooltip": "Клієнт служби FanControl"
+}

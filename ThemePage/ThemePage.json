@@ -5,5 +5,7 @@
   "SampleText": "Sample Text",
   "Secondary": "Secondary",
   "SyncThemeWindows": "Sync theme with Windows",
-  "Theme": "Theme"
+  "Theme": "Theme",
+  "ThemeDark": "Dark",
+  "ThemeLight": "Light"
 }

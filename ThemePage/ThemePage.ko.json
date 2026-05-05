@@ -5,5 +5,7 @@
   "SampleText": "예제 텍스트",
   "Secondary": "보조",
   "SyncThemeWindows": "Windows와 테마 동기화",
-  "Theme": "테마"
+  "Theme": "테마",
+  "ThemeDark": "다크",
+  "ThemeLight": "라이트"
 }

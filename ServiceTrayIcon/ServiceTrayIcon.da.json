@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Skift konfiguration",
+  "CurrentConfigFormat": "Nuværende konfiguration: {0}",
+  "CurrentConfigNone": "(ingen)",
+  "CurrentConfigUnavailable": "Nuværende konfiguration: utilgængelig",
+  "CurrentConfigUnknown": "Nuværende konfiguration: ukendt",
+  "ExitClient": "Afslut klient",
+  "NoConfigsFound": "(Ingen konfigurationer fundet)",
+  "OpenFanControlStopService": "Åbn FanControl (stop tjenesten)",
+  "RestartSensorDetection": "Genstart sensordetektering",
+  "ServiceChecking": "Tjeneste: kontrollerer...",
+  "ServiceNotRunning": "Tjeneste: kører ikke",
+  "ServiceRunning": "Tjeneste: kører",
+  "ServiceUnavailable": "(Tjenesten er utilgængelig)",
+  "Tooltip": "FanControl tjenesteklient"
+}

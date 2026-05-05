@@ -5,5 +5,7 @@
   "SampleText": "Ukázka textu",
   "Secondary": "Sekundární",
   "SyncThemeWindows": "Synchronizovat motiv se systémem Windows",
-  "Theme": "Motiv"
+  "Theme": "Motiv",
+  "ThemeDark": "Tmavé",
+  "ThemeLight": "Světlé"
 }

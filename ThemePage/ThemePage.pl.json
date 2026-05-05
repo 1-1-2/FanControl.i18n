@@ -5,5 +5,7 @@
   "SampleText": "Przykład",
   "Secondary": "Pomocniczy",
   "SyncThemeWindows": "Synchronizuj z systemem Windows",
-  "Theme": "Motyw"
+  "Theme": "Motyw",
+  "ThemeDark": "Ciemny",
+  "ThemeLight": "Jasny"
 }

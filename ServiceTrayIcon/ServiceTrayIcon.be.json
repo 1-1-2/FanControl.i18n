@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Змяніць канфігурацыю",
+  "CurrentConfigFormat": "Бягучая канфігурацыя: {0}",
+  "CurrentConfigNone": "(няма)",
+  "CurrentConfigUnavailable": "Бягучая канфігурацыя: недаступна",
+  "CurrentConfigUnknown": "Бягучая канфігурацыя: невядома",
+  "ExitClient": "Выйсці з кліента",
+  "NoConfigsFound": "(Канфігурацыі не знойдзены)",
+  "OpenFanControlStopService": "Адкрыць FanControl (спыніць сэрвіс)",
+  "RestartSensorDetection": "Перазапусціць выяўленне датчыкаў",
+  "ServiceChecking": "Сэрвіс: праверка...",
+  "ServiceNotRunning": "Сэрвіс: не працуе",
+  "ServiceRunning": "Сэрвіс: працуе",
+  "ServiceUnavailable": "(Сэрвіс недаступны)",
+  "Tooltip": "Кліент сэрвісу FanControl"
+}

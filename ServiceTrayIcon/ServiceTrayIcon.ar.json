@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "تغيير التهيئة",
+  "CurrentConfigFormat": "التهيئة الحالية: {0}",
+  "CurrentConfigNone": "(لا شيء)",
+  "CurrentConfigUnavailable": "التهيئة الحالية: غير متاحة",
+  "CurrentConfigUnknown": "التهيئة الحالية: غير معروفة",
+  "ExitClient": "إنهاء العميل",
+  "NoConfigsFound": "(لم يتم العثور على أي تهيئات)",
+  "OpenFanControlStopService": "فتح FanControl (إيقاف الخدمة)",
+  "RestartSensorDetection": "إعادة تشغيل اكتشاف المستشعرات",
+  "ServiceChecking": "الخدمة: جارٍ التحقق...",
+  "ServiceNotRunning": "الخدمة: غير قيد التشغيل",
+  "ServiceRunning": "الخدمة: قيد التشغيل",
+  "ServiceUnavailable": "(الخدمة غير متاحة)",
+  "Tooltip": "عميل خدمة FanControl"
+}

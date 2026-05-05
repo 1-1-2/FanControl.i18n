@@ -5,5 +5,7 @@
   "SampleText": "Văn bản mẫu",
   "Secondary": "Phụ",
   "SyncThemeWindows": "Đồng bộ giao diện với Windows",
-  "Theme": "Giao diện"
+  "Theme": "Giao diện",
+  "ThemeDark": "Tối",
+  "ThemeLight": "Sáng"
 }

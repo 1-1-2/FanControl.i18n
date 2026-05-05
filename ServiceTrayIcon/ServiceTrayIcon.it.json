@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Cambia configurazione",
+  "CurrentConfigFormat": "Configurazione corrente: {0}",
+  "CurrentConfigNone": "(nessuna)",
+  "CurrentConfigUnavailable": "Configurazione corrente: non disponibile",
+  "CurrentConfigUnknown": "Configurazione corrente: sconosciuta",
+  "ExitClient": "Esci dal client",
+  "NoConfigsFound": "(Nessuna configurazione trovata)",
+  "OpenFanControlStopService": "Apri FanControl (arresta servizio)",
+  "RestartSensorDetection": "Riavvia rilevamento sensori",
+  "ServiceChecking": "Servizio: controllo...",
+  "ServiceNotRunning": "Servizio: non in esecuzione",
+  "ServiceRunning": "Servizio: in esecuzione",
+  "ServiceUnavailable": "(Servizio non disponibile)",
+  "Tooltip": "Client del servizio FanControl"
+}

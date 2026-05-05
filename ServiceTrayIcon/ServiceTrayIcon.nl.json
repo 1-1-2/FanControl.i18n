@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Configuratie wijzigen",
+  "CurrentConfigFormat": "Huidige configuratie: {0}",
+  "CurrentConfigNone": "(geen)",
+  "CurrentConfigUnavailable": "Huidige configuratie: niet beschikbaar",
+  "CurrentConfigUnknown": "Huidige configuratie: onbekend",
+  "ExitClient": "Client afsluiten",
+  "NoConfigsFound": "(Geen configuraties gevonden)",
+  "OpenFanControlStopService": "FanControl openen (service stoppen)",
+  "RestartSensorDetection": "Sensordetectie opnieuw starten",
+  "ServiceChecking": "Service: controleren...",
+  "ServiceNotRunning": "Service: niet actief",
+  "ServiceRunning": "Service: actief",
+  "ServiceUnavailable": "(Service niet beschikbaar)",
+  "Tooltip": "FanControl-serviceclient"
+}

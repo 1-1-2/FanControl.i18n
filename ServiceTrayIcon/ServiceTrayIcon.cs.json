@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "Změnit konfiguraci",
+  "CurrentConfigFormat": "Aktuální konfigurace: {0}",
+  "CurrentConfigNone": "(žádná)",
+  "CurrentConfigUnavailable": "Aktuální konfigurace: nedostupná",
+  "CurrentConfigUnknown": "Aktuální konfigurace: neznámá",
+  "ExitClient": "Ukončit klienta",
+  "NoConfigsFound": "(Nebyly nalezeny žádné konfigurace)",
+  "OpenFanControlStopService": "Otevřít FanControl (zastavit službu)",
+  "RestartSensorDetection": "Restartovat detekci senzorů",
+  "ServiceChecking": "Služba: kontrola...",
+  "ServiceNotRunning": "Služba: neběží",
+  "ServiceRunning": "Služba: spuštěna",
+  "ServiceUnavailable": "(Služba není dostupná)",
+  "Tooltip": "Klient služby FanControl"
+}

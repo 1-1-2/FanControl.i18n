@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "Használhatja a Fan Control-t ezen illesztőprogram nélkül is, de minden LibreHardwareMonitor-hoz kapcsolódó beépített érzékelő elérhetetlenné válik.",
   "PawnIoInformationPart4": "Más érzékelő szolgáltatók, mint az NvAPI, ADLX és a bővítmények továbbra is a szokásos módon működnek.",
   "PawnIoInstallationRequired": "PawnIO telepítése szükséges",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Üzenet a Fan Control fejlesztőjétől",
   "PaypalDialogPart2": "Szia! Itt Rémi.",
   "PaypalDialogPart3a": "Látom, már van néhány ventilátor-görbéd, ez fantasztikus! 🚀🙌",

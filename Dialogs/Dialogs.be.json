@@ -30,6 +30,7 @@
   "PawnIoInformationPart3": "Вы можаце выкарыстоўваць FanControl без гэтага драйвера, але ўсе ўбудаваныя датчыкі, звязаныя з LibreHardwareMonitor, будуць недаступныя.",
   "PawnIoInformationPart4": "Іншыя пастаўшчыкі датчыкаў, такія як NvAPI, ADLX і плагіны, будуць працаваць як звычайна.",
   "PawnIoInstallationRequired": "Патрабуецца ўсталяванне PawnIO",
+  "PawnIoUpdate": "A new version of the PawnIO kernel driver is required for FanControl to run. Please click the button below to install the following version: {0}",
   "PaypalDialogPart1": "Паведамленне ад распрацоўшчыка Fan Control",
   "PaypalDialogPart2": "Прывітанне! Гэта Рэмі.",
   "PaypalDialogPart3a": "Бачу, што вы наладзілі крывыя вентылятараў, гэта выдатна! 🚀🙌",

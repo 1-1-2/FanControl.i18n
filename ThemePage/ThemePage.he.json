@@ -5,5 +5,7 @@
   "SampleText": "טקסט לדוגמה",
   "Secondary": "משני",
   "SyncThemeWindows": "סנכרן ערכת נושא עם Windows",
-  "Theme": "ערכת נושא"
+  "Theme": "ערכת נושא",
+  "ThemeDark": "כהה",
+  "ThemeLight": "בהיר"
 }

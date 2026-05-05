@@ -5,5 +5,7 @@
   "SampleText": "Пример текста",
   "Secondary": "Вторичный",
   "SyncThemeWindows": "Синхронизировать тему с Windows",
-  "Theme": "Тема"
+  "Theme": "Тема",
+  "ThemeDark": "Тёмная",
+  "ThemeLight": "Светлая"
 }

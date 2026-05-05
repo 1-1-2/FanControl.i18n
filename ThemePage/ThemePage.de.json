@@ -5,5 +5,7 @@
   "SampleText": "Beispieltext",
   "Secondary": "Sekundär",
   "SyncThemeWindows": "An Windows-Design anpassen",
-  "Theme": "Design"
+  "Theme": "Design",
+  "ThemeDark": "Dunkel",
+  "ThemeLight": "Hell"
 }

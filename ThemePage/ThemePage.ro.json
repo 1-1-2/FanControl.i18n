@@ -5,5 +5,7 @@
   "SampleText": "Text de exemplu",
   "Secondary": "Secundar",
   "SyncThemeWindows": "Sincronizează tema cu Windows",
-  "Theme": "Temă"
+  "Theme": "Temă",
+  "ThemeDark": "Întunecată",
+  "ThemeLight": "Luminoasă"
 }

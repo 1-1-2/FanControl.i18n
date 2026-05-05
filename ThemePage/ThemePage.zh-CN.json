@@ -5,5 +5,7 @@
   "SampleText": "示例文本",
   "Secondary": "次要",
   "SyncThemeWindows": "与 Windows 主题同步",
-  "Theme": "主题"
+  "Theme": "主题",
+  "ThemeDark": "深色",
+  "ThemeLight": "浅色"
 }

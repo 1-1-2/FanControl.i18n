@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "變更設定",
+  "CurrentConfigFormat": "目前設定：{0}",
+  "CurrentConfigNone": "（無）",
+  "CurrentConfigUnavailable": "目前設定：無法使用",
+  "CurrentConfigUnknown": "目前設定：未知",
+  "ExitClient": "結束用戶端",
+  "NoConfigsFound": "（找不到設定）",
+  "OpenFanControlStopService": "開啟 FanControl（停止服務）",
+  "RestartSensorDetection": "重新啟動感測器偵測",
+  "ServiceChecking": "服務：正在檢查...",
+  "ServiceNotRunning": "服務：未執行",
+  "ServiceRunning": "服務：執行中",
+  "ServiceUnavailable": "（服務無法使用）",
+  "Tooltip": "FanControl 服務用戶端"
+}

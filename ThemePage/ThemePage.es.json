@@ -5,5 +5,7 @@
   "SampleText": "Texto de ejemplo",
   "Secondary": "Secundario",
   "SyncThemeWindows": "Sincronizar tema con Windows",
-  "Theme": "Tema"
+  "Theme": "Tema",
+  "ThemeDark": "Oscuro",
+  "ThemeLight": "Claro"
 }

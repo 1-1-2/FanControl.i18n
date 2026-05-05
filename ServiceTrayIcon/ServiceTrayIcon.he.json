@@ -1,0 +1,16 @@
+﻿{
+  "ChangeConfiguration": "שנה תצורה",
+  "CurrentConfigFormat": "תצורה נוכחית: {0}",
+  "CurrentConfigNone": "(ללא)",
+  "CurrentConfigUnavailable": "תצורה נוכחית: לא זמינה",
+  "CurrentConfigUnknown": "תצורה נוכחית: לא ידועה",
+  "ExitClient": "יציאה מהלקוח",
+  "NoConfigsFound": "(לא נמצאו תצורות)",
+  "OpenFanControlStopService": "פתח את FanControl (עצור שירות)",
+  "RestartSensorDetection": "הפעל מחדש את זיהוי החיישנים",
+  "ServiceChecking": "השירות: בבדיקה...",
+  "ServiceNotRunning": "השירות: לא פועל",
+  "ServiceRunning": "השירות: פועל",
+  "ServiceUnavailable": "(השירות לא זמין)",
+  "Tooltip": "לקוח שירות FanControl"
+}
