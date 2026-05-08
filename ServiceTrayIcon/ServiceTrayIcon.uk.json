@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Поточна конфігурація: недоступна",
   "CurrentConfigUnknown": "Поточна конфігурація: невідома",
   "ExitClient": "Вийти з клієнта",
+  "ExitService": "Зупинити службу",
   "NoConfigsFound": "(Конфігурації не знайдено)",
   "OpenFanControlStopService": "Відкрити FanControl (зупинити службу)",
   "RestartSensorDetection": "Перезапустити виявлення датчиків",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Служба: не запущена",
   "ServiceRunning": "Служба: запущена",
   "ServiceUnavailable": "(Служба недоступна)",
+  "StartService": "Запустити службу",
   "Tooltip": "Клієнт служби FanControl"
 }

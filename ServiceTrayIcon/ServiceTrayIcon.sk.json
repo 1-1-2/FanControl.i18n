@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Aktuálna konfigurácia: nedostupná",
   "CurrentConfigUnknown": "Aktuálna konfigurácia: neznáma",
   "ExitClient": "Ukončiť klienta",
+  "ExitService": "Zastaviť službu",
   "NoConfigsFound": "(Nenašli sa žiadne konfigurácie)",
   "OpenFanControlStopService": "Otvoriť FanControl (zastaviť službu)",
   "RestartSensorDetection": "Reštartovať detekciu senzorov",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Služba: nie je spustená",
   "ServiceRunning": "Služba: spustená",
   "ServiceUnavailable": "(Služba nie je dostupná)",
+  "StartService": "Spustiť službu",
   "Tooltip": "Klient služby FanControl"
 }

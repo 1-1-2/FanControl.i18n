@@ -2,6 +2,7 @@
   "AscendingRpmValues": "升序的 RPM 值",
   "CalibrationAvoidColumn": "避讓",
   "CalibrationAvoidColumnTooltip": "將點標記為避讓區域的一部分",
+  "CalibrationAvoidGroupsContiguous": "連續的排除群組",
   "CalibrationAvoidPointTooltip": "將此點標記為避讓區域的一部分",
   "CalibrationAvoidSinglePointError": "單一「避讓」點無效。請至少使用 2 個連續點。",
   "CalibrationCommand": "指令 (%)",

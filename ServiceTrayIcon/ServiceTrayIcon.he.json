@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "תצורה נוכחית: לא זמינה",
   "CurrentConfigUnknown": "תצורה נוכחית: לא ידועה",
   "ExitClient": "יציאה מהלקוח",
+  "ExitService": "הפסקת השירות",
   "NoConfigsFound": "(לא נמצאו תצורות)",
   "OpenFanControlStopService": "פתח את FanControl (עצור שירות)",
   "RestartSensorDetection": "הפעל מחדש את זיהוי החיישנים",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "השירות: לא פועל",
   "ServiceRunning": "השירות: פועל",
   "ServiceUnavailable": "(השירות לא זמין)",
+  "StartService": "הפעלת השירות",
   "Tooltip": "לקוח שירות FanControl"
 }

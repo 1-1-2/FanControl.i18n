@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Nykyinen kokoonpano: ei saatavilla",
   "CurrentConfigUnknown": "Nykyinen kokoonpano: tuntematon",
   "ExitClient": "Poistu asiakkaasta",
+  "ExitService": "Pysäytä palvelu",
   "NoConfigsFound": "(Kokoonpanoja ei löytynyt)",
   "OpenFanControlStopService": "Avaa FanControl (pysäytä palvelu)",
   "RestartSensorDetection": "Käynnistä anturien tunnistus uudelleen",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Palvelu: ei käynnissä",
   "ServiceRunning": "Palvelu: käynnissä",
   "ServiceUnavailable": "(Palvelu ei ole saatavilla)",
+  "StartService": "Käynnistä palvelu",
   "Tooltip": "FanControl-palveluasiakas"
 }

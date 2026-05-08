@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Jelenlegi konfiguráció: nem érhető el",
   "CurrentConfigUnknown": "Jelenlegi konfiguráció: ismeretlen",
   "ExitClient": "Kliens bezárása",
+  "ExitService": "Szolgáltatás leállítása",
   "NoConfigsFound": "(Nem található konfiguráció)",
   "OpenFanControlStopService": "FanControl megnyitása (szolgáltatás leállítása)",
   "RestartSensorDetection": "Szenzorészlelés újraindítása",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Szolgáltatás: nem fut",
   "ServiceRunning": "Szolgáltatás: fut",
   "ServiceUnavailable": "(Szolgáltatás nem érhető el)",
+  "StartService": "Szolgáltatás indítása",
   "Tooltip": "FanControl szolgáltatás kliens"
 }

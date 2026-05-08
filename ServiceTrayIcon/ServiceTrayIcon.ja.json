@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "現在の構成: 利用不可",
   "CurrentConfigUnknown": "現在の構成: 不明",
   "ExitClient": "クライアントを終了",
+  "ExitService": "サービスを停止",
   "NoConfigsFound": "(構成が見つかりません)",
   "OpenFanControlStopService": "FanControl を開く (サービスを停止)",
   "RestartSensorDetection": "センサー検出を再起動",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "サービス: 実行されていません",
   "ServiceRunning": "サービス: 実行中",
   "ServiceUnavailable": "(サービスを利用できません)",
+  "StartService": "サービスを開始",
   "Tooltip": "FanControl サービス クライアント"
 }

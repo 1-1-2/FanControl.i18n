@@ -2,6 +2,7 @@
   "AscendingRpmValues": "RPM値の昇順",
   "CalibrationAvoidColumn": "回避",
   "CalibrationAvoidColumnTooltip": "ポイントを回避領域の一部としてマークします",
+  "CalibrationAvoidGroupsContiguous": "連続した回避グループ",
   "CalibrationAvoidPointTooltip": "このポイントを回避領域の一部としてマーク",
   "CalibrationAvoidSinglePointError": "単一の「回避」ポイントは無効です。少なくとも 2 つの連続したポイントを使用してください。",
   "CalibrationCommand": "指令値（%）",

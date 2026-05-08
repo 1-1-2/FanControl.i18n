@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Возрастающие значения RPM",
   "CalibrationAvoidColumn": "Обход",
   "CalibrationAvoidColumnTooltip": "Помечает точки как часть зоны обхода",
+  "CalibrationAvoidGroupsContiguous": "Смежные группы исключения",
   "CalibrationAvoidPointTooltip": "Пометить эту точку как часть зоны обхода",
   "CalibrationAvoidSinglePointError": "Одна точка \"Обход\" недопустима. Используйте как минимум 2 соседние точки.",
   "CalibrationCommand": "Команда (%)",

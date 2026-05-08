@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Τρέχουσα ρύθμιση: μη διαθέσιμη",
   "CurrentConfigUnknown": "Τρέχουσα ρύθμιση: άγνωστη",
   "ExitClient": "Έξοδος πελάτη",
+  "ExitService": "Τερματισμός υπηρεσίας",
   "NoConfigsFound": "(Δεν βρέθηκαν ρυθμίσεις)",
   "OpenFanControlStopService": "Άνοιγμα FanControl (διακοπή υπηρεσίας)",
   "RestartSensorDetection": "Επανεκκίνηση εντοπισμού αισθητήρων",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Υπηρεσία: δεν εκτελείται",
   "ServiceRunning": "Υπηρεσία: σε λειτουργία",
   "ServiceUnavailable": "(Η υπηρεσία δεν είναι διαθέσιμη)",
+  "StartService": "Έναρξη υπηρεσίας",
   "Tooltip": "Πελάτης υπηρεσίας FanControl"
 }

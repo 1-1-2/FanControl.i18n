@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Huidige configuratie: niet beschikbaar",
   "CurrentConfigUnknown": "Huidige configuratie: onbekend",
   "ExitClient": "Client afsluiten",
+  "ExitService": "Service stoppen",
   "NoConfigsFound": "(Geen configuraties gevonden)",
   "OpenFanControlStopService": "FanControl openen (service stoppen)",
   "RestartSensorDetection": "Sensordetectie opnieuw starten",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Service: niet actief",
   "ServiceRunning": "Service: actief",
   "ServiceUnavailable": "(Service niet beschikbaar)",
+  "StartService": "Service starten",
   "Tooltip": "FanControl-serviceclient"
 }

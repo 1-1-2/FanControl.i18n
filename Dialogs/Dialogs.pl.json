@@ -2,6 +2,7 @@
   "AscendingRpmValues": "(wartości RPM rosnąco)",
   "CalibrationAvoidColumn": "Unikaj",
   "CalibrationAvoidColumnTooltip": "Oznacza punkty jako część obszaru unikania",
+  "CalibrationAvoidGroupsContiguous": "Sąsiadujące grupy wykluczeń",
   "CalibrationAvoidPointTooltip": "Oznacz ten punkt jako część obszaru unikania",
   "CalibrationAvoidSinglePointError": "Pojedynczy punkt \"Unikaj\" jest nieprawidłowy. Użyj co najmniej 2 sąsiadujących punktów.",
   "CalibrationCommand": "Polecenie (%)",

@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Configuración actual: no disponible",
   "CurrentConfigUnknown": "Configuración actual: desconocida",
   "ExitClient": "Salir del cliente",
+  "ExitService": "Detener servicio",
   "NoConfigsFound": "(No se encontraron configuraciones)",
   "OpenFanControlStopService": "Abrir FanControl (detener servicio)",
   "RestartSensorDetection": "Reiniciar detección de sensores",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Servicio: no se está ejecutando",
   "ServiceRunning": "Servicio: en ejecución",
   "ServiceUnavailable": "(Servicio no disponible)",
+  "StartService": "Iniciar servicio",
   "Tooltip": "Cliente de servicio de FanControl"
 }

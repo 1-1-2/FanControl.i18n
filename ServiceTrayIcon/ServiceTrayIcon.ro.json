@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Configurația curentă: indisponibilă",
   "CurrentConfigUnknown": "Configurația curentă: necunoscută",
   "ExitClient": "Ieșire client",
+  "ExitService": "Oprește serviciul",
   "NoConfigsFound": "(Nu s-au găsit configurații)",
   "OpenFanControlStopService": "Deschide FanControl (oprește serviciul)",
   "RestartSensorDetection": "Repornește detectarea senzorilor",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Serviciu: nu rulează",
   "ServiceRunning": "Serviciu: rulează",
   "ServiceUnavailable": "(Serviciu indisponibil)",
+  "StartService": "Pornește serviciul",
   "Tooltip": "Client serviciu FanControl"
 }

@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Oplopende RPM-waarden",
   "CalibrationAvoidColumn": "Vermijden",
   "CalibrationAvoidColumnTooltip": "Markeert punten als onderdeel van een vermijdingsgebied",
+  "CalibrationAvoidGroupsContiguous": "Aaneengesloten uitsluitingsgroepen",
   "CalibrationAvoidPointTooltip": "Markeer dit punt als onderdeel van een vermijdingsgebied",
   "CalibrationAvoidSinglePointError": "Een enkel \"Vermijden\"-punt is ongeldig. Gebruik minimaal 2 aaneengesloten punten.",
   "CalibrationCommand": "Opdracht (%)",

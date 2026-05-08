@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Узрастаючыя значэнні RPM",
   "CalibrationAvoidColumn": "Пазбягаць",
   "CalibrationAvoidColumnTooltip": "Пазначае кропкі як частку зоны пазбягання",
+  "CalibrationAvoidGroupsContiguous": "Паслядоўныя групы пазбягання",
   "CalibrationAvoidPointTooltip": "Пазначыць гэту кропку як частку зоны пазбягання",
   "CalibrationAvoidSinglePointError": "Адзінкавая кропка \"Пазбягаць\" недапушчальная. Выкарыстайце як мінімум 2 сумежныя кропкі.",
   "CalibrationCommand": "Каманда (%)",

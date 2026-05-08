@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Vzestupné hodnoty otáček",
   "CalibrationAvoidColumn": "Vyhnout se",
   "CalibrationAvoidColumnTooltip": "Označí body jako součást oblasti vyhýbání",
+  "CalibrationAvoidGroupsContiguous": "Souvislé skupiny vynechání",
   "CalibrationAvoidPointTooltip": "Označit tento bod jako součást oblasti vyhýbání",
   "CalibrationAvoidSinglePointError": "Jeden bod \"Vyhnout se\" je neplatný. Použijte alespoň 2 souvislé body.",
   "CalibrationCommand": "Příkaz v (%)",

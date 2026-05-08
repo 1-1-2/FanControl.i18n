@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "التهيئة الحالية: غير متاحة",
   "CurrentConfigUnknown": "التهيئة الحالية: غير معروفة",
   "ExitClient": "إنهاء العميل",
+  "ExitService": "إيقاف الخدمة",
   "NoConfigsFound": "(لم يتم العثور على أي تهيئات)",
   "OpenFanControlStopService": "فتح FanControl (إيقاف الخدمة)",
   "RestartSensorDetection": "إعادة تشغيل اكتشاف المستشعرات",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "الخدمة: غير قيد التشغيل",
   "ServiceRunning": "الخدمة: قيد التشغيل",
   "ServiceUnavailable": "(الخدمة غير متاحة)",
+  "StartService": "بدء الخدمة",
   "Tooltip": "عميل خدمة FanControl"
 }

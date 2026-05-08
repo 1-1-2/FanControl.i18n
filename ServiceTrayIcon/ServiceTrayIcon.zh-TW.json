@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "目前設定：無法使用",
   "CurrentConfigUnknown": "目前設定：未知",
   "ExitClient": "結束用戶端",
+  "ExitService": "停止服務",
   "NoConfigsFound": "（找不到設定）",
   "OpenFanControlStopService": "開啟 FanControl（停止服務）",
   "RestartSensorDetection": "重新啟動感測器偵測",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "服務：未執行",
   "ServiceRunning": "服務：執行中",
   "ServiceUnavailable": "（服務無法使用）",
+  "StartService": "啟動服務",
   "Tooltip": "FanControl 服務用戶端"
 }

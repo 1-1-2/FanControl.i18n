@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Artan RPM değerleri",
   "CalibrationAvoidColumn": "Kaçın",
   "CalibrationAvoidColumnTooltip": "Noktaları bir kaçınma bölgesinin parçası olarak işaretler",
+  "CalibrationAvoidGroupsContiguous": "Bitişik dışlama grupları",
   "CalibrationAvoidPointTooltip": "Bu noktayı bir kaçınma bölgesinin parçası olarak işaretle",
   "CalibrationAvoidSinglePointError": "Tek bir \"Kaçın\" noktası geçersizdir. En az 2 bitişik nokta kullanın.",
   "CalibrationCommand": "Komut (%)",

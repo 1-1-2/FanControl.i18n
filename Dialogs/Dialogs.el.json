@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Αύξουσες τιμές RPM",
   "CalibrationAvoidColumn": "Αποφυγή",
   "CalibrationAvoidColumnTooltip": "Επισημαίνει σημεία ως μέρος περιοχής αποφυγής",
+  "CalibrationAvoidGroupsContiguous": "Συνεχόμενες ομάδες αποφυγής",
   "CalibrationAvoidPointTooltip": "Επισήμανση αυτού του σημείου ως μέρος περιοχής αποφυγής",
   "CalibrationAvoidSinglePointError": "Ένα μόνο σημείο \"Αποφυγή\" δεν είναι έγκυρο. Χρησιμοποιήστε τουλάχιστον 2 συνεχόμενα σημεία.",
   "CalibrationCommand": "Εντολή (%)",

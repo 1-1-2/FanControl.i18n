@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Nousevat RPM-arvot",
   "CalibrationAvoidColumn": "Vältä",
   "CalibrationAvoidColumnTooltip": "Merkitsee pisteet osaksi vältettävää aluetta",
+  "CalibrationAvoidGroupsContiguous": "Yhtenäiset välttöryhmät",
   "CalibrationAvoidPointTooltip": "Merkitse tämä piste osaksi vältettävää aluetta",
   "CalibrationAvoidSinglePointError": "Yksi \"Vältä\"-piste ei kelpaa. Käytä vähintään 2 vierekkäistä pistettä.",
   "CalibrationCommand": "Komento (%)",

@@ -1,8 +1,8 @@
 ﻿{
   "AscendingRpmValues": "Ascending RPM values",
   "CalibrationAvoidColumn": "Avoid",
-  "CalibrationAvoidGroupsContiguous": "Contiguous avoid groups",
   "CalibrationAvoidColumnTooltip": "Marks points as part of an avoid region",
+  "CalibrationAvoidGroupsContiguous": "Contiguous avoid groups",
   "CalibrationAvoidPointTooltip": "Mark this point as part of an avoid region",
   "CalibrationAvoidSinglePointError": "A single \"Avoid\" point is invalid. Use at least 2 contiguous points.",
   "CalibrationCommand": "Command (%)",

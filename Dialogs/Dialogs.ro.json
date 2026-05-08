@@ -2,6 +2,7 @@
   "AscendingRpmValues": "Valori RPM în creștere",
   "CalibrationAvoidColumn": "Evită",
   "CalibrationAvoidColumnTooltip": "Marchează punctele ca parte a unei regiuni de evitare",
+  "CalibrationAvoidGroupsContiguous": "Grupuri de excludere adiacente",
   "CalibrationAvoidPointTooltip": "Marchează acest punct ca parte a unei regiuni de evitare",
   "CalibrationAvoidSinglePointError": "Un singur punct \"Evită\" este invalid. Folosește cel puțin 2 puncte contigue.",
   "CalibrationCommand": "Comandă (%)",

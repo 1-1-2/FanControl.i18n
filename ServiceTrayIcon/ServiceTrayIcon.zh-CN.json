@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "当前配置：不可用",
   "CurrentConfigUnknown": "当前配置：未知",
   "ExitClient": "退出客户端",
+  "ExitService": "停止服务",
   "NoConfigsFound": "（未找到配置）",
   "OpenFanControlStopService": "打开 FanControl（停止服务）",
   "RestartSensorDetection": "重启传感器检测",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "服务：未运行",
   "ServiceRunning": "服务：运行中",
   "ServiceUnavailable": "（服务不可用）",
+  "StartService": "启动服务",
   "Tooltip": "FanControl 服务客户端"
 }

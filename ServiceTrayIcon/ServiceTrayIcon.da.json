@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Nuværende konfiguration: utilgængelig",
   "CurrentConfigUnknown": "Nuværende konfiguration: ukendt",
   "ExitClient": "Afslut klient",
+  "ExitService": "Stop tjenesten",
   "NoConfigsFound": "(Ingen konfigurationer fundet)",
   "OpenFanControlStopService": "Åbn FanControl (stop tjenesten)",
   "RestartSensorDetection": "Genstart sensordetektering",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Tjeneste: kører ikke",
   "ServiceRunning": "Tjeneste: kører",
   "ServiceUnavailable": "(Tjenesten er utilgængelig)",
+  "StartService": "Start tjenesten",
   "Tooltip": "FanControl tjenesteklient"
 }

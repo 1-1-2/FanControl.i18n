@@ -5,6 +5,7 @@
   "CurrentConfigUnavailable": "Geçerli yapılandırma: kullanılamıyor",
   "CurrentConfigUnknown": "Geçerli yapılandırma: bilinmiyor",
   "ExitClient": "İstemciden çık",
+  "ExitService": "Hizmeti durdur",
   "NoConfigsFound": "(Yapılandırma bulunamadı)",
   "OpenFanControlStopService": "FanControl'ü aç (servisi durdur)",
   "RestartSensorDetection": "Sensör algılamayı yeniden başlat",
@@ -12,5 +13,6 @@
   "ServiceNotRunning": "Servis: çalışmıyor",
   "ServiceRunning": "Servis: çalışıyor",
   "ServiceUnavailable": "(Servis kullanılamıyor)",
+  "StartService": "Hizmeti başlat",
   "Tooltip": "FanControl Servis İstemcisi"
 }

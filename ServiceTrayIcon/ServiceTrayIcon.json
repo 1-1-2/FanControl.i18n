@@ -4,15 +4,15 @@
   "CurrentConfigNone": "(none)",
   "CurrentConfigUnavailable": "Current config: unavailable",
   "CurrentConfigUnknown": "Current config: unknown",
-  "ExitService": "Exit service",
   "ExitClient": "Exit client",
+  "ExitService": "Exit service",
   "NoConfigsFound": "(No configs found)",
   "OpenFanControlStopService": "Open FanControl (stop service)",
   "RestartSensorDetection": "Restart sensor detection",
-  "StartService": "Start service",
   "ServiceChecking": "Service: checking...",
   "ServiceNotRunning": "Service: not running",
   "ServiceRunning": "Service: running",
   "ServiceUnavailable": "(Service unavailable)",
+  "StartService": "Start service",
   "Tooltip": "FanControl Service Client"
 }
