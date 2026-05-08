@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatico",
+  "AvoidModeEnabled": "La modalità di evitamento è attiva: l'obiettivo corrente viene regolato per restare fuori da una regione di evitamento.",
   "Calibrate": "Calibra",
   "CalibrateAuto": "Calibra automaticamente il controllo abbinato...",
   "Calibrated": "Calibrato",

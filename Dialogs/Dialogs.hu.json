@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Növekvő RPM értékek",
+  "CalibrationAvoidColumn": "Elkerülés",
+  "CalibrationAvoidColumnTooltip": "A pontokat az elkerülési tartomány részeként jelöli",
+  "CalibrationAvoidPointTooltip": "Pont megjelölése az elkerülési tartomány részeként",
+  "CalibrationAvoidSinglePointError": "Egyetlen \"Elkerülés\" pont érvénytelen. Használj legalább 2 egymás melletti pontot.",
   "CalibrationCommand": "Parancs (%)",
   "CalibrationControlCardInstructions": "A következő kártyával állítsa be a ventilátor %-át, és figyelje meg annak fordulatszámát!",
   "CalibrationPointPercent": "Pont %",
+  "CalibrationRpmAscendingError": "Az RPM értékeknek növekvőnek kell lenniük.",
   "CalibrationSpeed": "Sebesség (RPM)",
   "CalibrationTable": "Kalibrációs tábla",
   "ControlHelpPart1": "A \"Vezérlők\" szakasz minden elérhető fejlécet/ventilátort megjelenít, amelyet észlel.",

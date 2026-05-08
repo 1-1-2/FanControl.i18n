@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automat",
+  "AvoidModeEnabled": "Modul de evitare este activ: ținta curentă este ajustată pentru a rămâne în afara unei regiuni de evitare.",
   "Calibrate": "Calibrează",
   "CalibrateAuto": "Calibrează automat controlul asociat...",
   "Calibrated": "Calibrat",

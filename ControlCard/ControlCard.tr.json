@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Otomatik",
+  "AvoidModeEnabled": "Kaçınma modu etkin: mevcut hedef, kaçınma bölgesinin dışında kalacak şekilde ayarlanıyor.",
   "Calibrate": "Kalibre Et",
   "CalibrateAuto": "Eşleştirilmiş kontrolü otomatik olarak kalibre et...",
   "Calibrated": "Kalibre edildi",

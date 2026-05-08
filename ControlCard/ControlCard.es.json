@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automático",
+  "AvoidModeEnabled": "El modo de evitación está activo: el objetivo actual se está ajustando para mantenerse fuera de una región de evitación.",
   "Calibrate": "Calibrar",
   "CalibrateAuto": "Calibrar control emparejado automáticamente...",
   "Calibrated": "Calibrado",

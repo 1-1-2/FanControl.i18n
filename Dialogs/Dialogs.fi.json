@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Nousevat RPM-arvot",
+  "CalibrationAvoidColumn": "Vältä",
+  "CalibrationAvoidColumnTooltip": "Merkitsee pisteet osaksi vältettävää aluetta",
+  "CalibrationAvoidPointTooltip": "Merkitse tämä piste osaksi vältettävää aluetta",
+  "CalibrationAvoidSinglePointError": "Yksi \"Vältä\"-piste ei kelpaa. Käytä vähintään 2 vierekkäistä pistettä.",
   "CalibrationCommand": "Komento (%)",
   "CalibrationControlCardInstructions": "Käytä seuraavaa korttia tuulettimesi prosenttiarvon säätöön ja nopeuden seurantaan.",
   "CalibrationPointPercent": "Pisteen prosenttiarvo",
+  "CalibrationRpmAscendingError": "RPM-arvojen on oltava nousevia.",
   "CalibrationSpeed": "Nopeus(RPM)",
   "CalibrationTable": "Kalibrointitaulukko",
   "ControlHelpPart1": "\"Ohjaimet\"-osio näyttää kaikki havaitut liitännät/tuulettimet.",

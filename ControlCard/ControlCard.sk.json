@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automaticky",
+  "AvoidModeEnabled": "Režim vyhýbania je aktívny: aktuálny cieľ sa upravuje tak, aby zostal mimo oblasti vyhýbania.",
   "Calibrate": "Kalibrovať",
   "CalibrateAuto": "Automatická kalibrácia spárovaného ovládania...",
   "Calibrated": "Kalibrované",

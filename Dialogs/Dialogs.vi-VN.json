@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Giá trị RPM tăng dần",
+  "CalibrationAvoidColumn": "Tránh",
+  "CalibrationAvoidColumnTooltip": "Đánh dấu các điểm là một phần của vùng tránh",
+  "CalibrationAvoidPointTooltip": "Đánh dấu điểm này là một phần của vùng tránh",
+  "CalibrationAvoidSinglePointError": "Một điểm \"Tránh\" là không hợp lệ. Hãy dùng ít nhất 2 điểm liền kề.",
   "CalibrationCommand": "Lệnh (%)",
   "CalibrationControlCardInstructions": "Dùng thẻ sau để điều chỉnh % quạt và quan sát RPM của nó.",
   "CalibrationPointPercent": "Điểm %",
+  "CalibrationRpmAscendingError": "RPM phải tăng dần.",
   "CalibrationSpeed": "Tốc độ (RPM)",
   "CalibrationTable": "Bảng hiệu chỉnh",
   "ControlHelpPart1": "Phần \"Controls\" hiển thị mọi đầu cắm/quạt có sẵn được phát hiện.",

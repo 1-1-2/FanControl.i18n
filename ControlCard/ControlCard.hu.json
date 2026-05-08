@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatikus",
+  "AvoidModeEnabled": "Az elkerülési mód aktív: az aktuális célérték módosul, hogy az elkerülési tartományon kívül maradjon.",
   "Calibrate": "Kalibrálás",
   "CalibrateAuto": "A párosított vezérlő automatikus kalibrálása...",
   "Calibrated": "Kalibrálva",

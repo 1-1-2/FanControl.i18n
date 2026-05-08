@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Узрастаючыя значэнні RPM",
+  "CalibrationAvoidColumn": "Пазбягаць",
+  "CalibrationAvoidColumnTooltip": "Пазначае кропкі як частку зоны пазбягання",
+  "CalibrationAvoidPointTooltip": "Пазначыць гэту кропку як частку зоны пазбягання",
+  "CalibrationAvoidSinglePointError": "Адзінкавая кропка \"Пазбягаць\" недапушчальная. Выкарыстайце як мінімум 2 сумежныя кропкі.",
   "CalibrationCommand": "Каманда (%)",
   "CalibrationControlCardInstructions": "Выкарыстоўвайце наступную картку для налады % вентылятара і назірання за яго RPM.",
   "CalibrationPointPercent": "Пункт %",
+  "CalibrationRpmAscendingError": "RPM павінен быць па ўзрастанні.",
   "CalibrationSpeed": "Хуткасць (RPM)",
   "CalibrationTable": "Табліца каліброўкі",
   "ControlHelpPart1": "Раздзел \"Кіраванне\" паказвае ўсе даступныя выяўленыя загалоўкі/вентылятары.",

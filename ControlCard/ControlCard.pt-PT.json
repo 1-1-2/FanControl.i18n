@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automático",
+  "AvoidModeEnabled": "O modo de prevenção está ativo: o alvo atual está a ser ajustado para permanecer fora de uma região de prevenção.",
   "Calibrate": "Calibrar",
   "CalibrateAuto": "Calibrar controlo emparelhado automaticamente...",
   "Calibrated": "Calibrado",

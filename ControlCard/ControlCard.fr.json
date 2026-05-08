@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatique",
+  "AvoidModeEnabled": "Le mode évitement est actif : la cible actuelle est ajustée pour rester en dehors d'une zone d'évitement.",
   "Calibrate": "Calibrer",
   "CalibrateAuto": "Calibrer le contrôle automatiquement...",
   "Calibrated": "Calibré",

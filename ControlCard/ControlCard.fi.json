@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automaattinen",
+  "AvoidModeEnabled": "Vältä-tila on aktiivinen: nykyistä tavoitetta säädetään, jotta se pysyy vältettävän alueen ulkopuolella.",
   "Calibrate": "Kalibroi",
   "CalibrateAuto": "Kalibroi paritettu ohjain automaattisesti...",
   "Calibrated": "Kalibroitu",

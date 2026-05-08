@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatisch",
+  "AvoidModeEnabled": "Vermijdingsmodus is actief: het huidige doel wordt aangepast om buiten een vermijdingsgebied te blijven.",
   "Calibrate": "Kalibreren",
   "CalibrateAuto": "Kalibreer de gekoppelde regeling automatisch...",
   "Calibrated": "Gekalibreerd",

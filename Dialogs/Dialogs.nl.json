@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Oplopende RPM-waarden",
+  "CalibrationAvoidColumn": "Vermijden",
+  "CalibrationAvoidColumnTooltip": "Markeert punten als onderdeel van een vermijdingsgebied",
+  "CalibrationAvoidPointTooltip": "Markeer dit punt als onderdeel van een vermijdingsgebied",
+  "CalibrationAvoidSinglePointError": "Een enkel \"Vermijden\"-punt is ongeldig. Gebruik minimaal 2 aaneengesloten punten.",
   "CalibrationCommand": "Opdracht (%)",
   "CalibrationControlCardInstructions": "Gebruik de volgende kaart om het percentage van uw ventilator aan te passen en het toerental ervan te observeren.",
   "CalibrationPointPercent": "Punt %",
+  "CalibrationRpmAscendingError": "RPM moet oplopend zijn.",
   "CalibrationSpeed": "Snelheid (RPM)",
   "CalibrationTable": "Kalibratietabel",
   "ControlHelpPart1": "In het gedeelte \"Besturingselementen\" worden alle beschikbare headers/ventilatoren weergegeven die zijn gedetecteerd.",

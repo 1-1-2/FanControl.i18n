@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Auto",
+  "AvoidModeEnabled": "Avoid mode is active: current target is being adjusted to stay out of an avoid region.",
   "Calibrate": "Calibrate",
   "CalibrateAuto": "Calibrate paired control automatically...",
   "Calibrated": "Calibrated",

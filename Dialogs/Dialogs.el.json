@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Αύξουσες τιμές RPM",
+  "CalibrationAvoidColumn": "Αποφυγή",
+  "CalibrationAvoidColumnTooltip": "Επισημαίνει σημεία ως μέρος περιοχής αποφυγής",
+  "CalibrationAvoidPointTooltip": "Επισήμανση αυτού του σημείου ως μέρος περιοχής αποφυγής",
+  "CalibrationAvoidSinglePointError": "Ένα μόνο σημείο \"Αποφυγή\" δεν είναι έγκυρο. Χρησιμοποιήστε τουλάχιστον 2 συνεχόμενα σημεία.",
   "CalibrationCommand": "Εντολή (%)",
   "CalibrationControlCardInstructions": "Χρησιμοποιήστε την παρακάτω κάρτα για να προσαρμόσετε το % του ανεμιστήρα σας και να παρατηρήσετε τις στροφές του.",
   "CalibrationPointPercent": "Σημείο %",
+  "CalibrationRpmAscendingError": "Οι τιμές RPM πρέπει να είναι αυξανόμενες.",
   "CalibrationSpeed": "Ταχύτητα (RPM)",
   "CalibrationTable": "Πίνακας βαθμονόμησης",
   "ControlHelpPart1": "Η ενότητα \"Ελεγκτές\" εμφανίζει κάθε διαθέσιμη υποδοχή/ανεμιστήρα που έχει εντοπιστεί.",

@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Значення обертів за зростанням",
+  "CalibrationAvoidColumn": "Уникати",
+  "CalibrationAvoidColumnTooltip": "Позначає точки як частину зони уникнення",
+  "CalibrationAvoidPointTooltip": "Позначити цю точку як частину зони уникнення",
+  "CalibrationAvoidSinglePointError": "Одна точка \"Уникати\" недійсна. Використайте щонайменше 2 суміжні точки.",
   "CalibrationCommand": "Значення (%)",
   "CalibrationControlCardInstructions": "Використовуйте повзунок нижче, щоб регулювати % вентилятора і відстежувати його швидкість обертання.",
   "CalibrationPointPercent": "Значення %",
+  "CalibrationRpmAscendingError": "RPM має зростати.",
   "CalibrationSpeed": "Швидкість (об/хв)",
   "CalibrationTable": "Таблиця калібрування",
   "ControlHelpPart1": "У розділі \"Елементи керування\" показано всі розпізнані підключення/вентилятори",

@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatyczny",
+  "AvoidModeEnabled": "Tryb unikania jest aktywny: bieżący cel jest dostosowywany, aby pozostać poza obszarem unikania.",
   "Calibrate": "Kalibruj",
   "CalibrateAuto": "Kalibruj sparowany kontroler automatycznie ...",
   "Calibrated": "Skalibrowany",

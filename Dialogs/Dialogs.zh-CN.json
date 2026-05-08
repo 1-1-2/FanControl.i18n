@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "升序的 RPM 值",
+  "CalibrationAvoidColumn": "避让",
+  "CalibrationAvoidColumnTooltip": "将点标记为避让区域的一部分",
+  "CalibrationAvoidPointTooltip": "将此点标记为避让区域的一部分",
+  "CalibrationAvoidSinglePointError": "单个“避让”点无效。请至少使用 2 个连续点。",
   "CalibrationCommand": "命令 (%)",
   "CalibrationControlCardInstructions": "使用以下卡片调整风扇 % 并观察其 RPM。",
   "CalibrationPointPercent": "点 %",
+  "CalibrationRpmAscendingError": "RPM 必须递增。",
   "CalibrationSpeed": "速度 (RPM)",
   "CalibrationTable": "校准表",
   "ControlHelpPart1": "“控制”显示检测到的所有可用风扇。",

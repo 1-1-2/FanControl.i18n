@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "قيم RPM تصاعدي في الدقيقة",
+  "CalibrationAvoidColumn": "تجنب",
+  "CalibrationAvoidColumnTooltip": "يحدد النقاط كجزء من منطقة تجنب",
+  "CalibrationAvoidPointTooltip": "حدد هذه النقطة كجزء من منطقة تجنب",
+  "CalibrationAvoidSinglePointError": "نقطة \"تجنب\" واحدة غير صالحة. استخدم نقطتين متجاورتين على الأقل.",
   "CalibrationCommand": "الأمر (%)",
   "CalibrationControlCardInstructions": "استخدم البطاقة التالية لضبط النسبة المئوية للمروحة ومراقبة RPM.",
   "CalibrationPointPercent": "النقطة %",
+  "CalibrationRpmAscendingError": "يجب أن تكون قيم RPM تصاعدية.",
   "CalibrationSpeed": "السرعة (RPM)",
   "CalibrationTable": "جدول المعايرة",
   "ControlHelpPart1": "يُظهر قسم \"عناصر التحكم\" كل رأس ومروحة متوفرة تم اكتشافها.",

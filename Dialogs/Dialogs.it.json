@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Incremento dei valori RPM",
+  "CalibrationAvoidColumn": "Evita",
+  "CalibrationAvoidColumnTooltip": "Contrassegna i punti come parte di una regione da evitare",
+  "CalibrationAvoidPointTooltip": "Contrassegna questo punto come parte di una regione da evitare",
+  "CalibrationAvoidSinglePointError": "Un singolo punto \"Evita\" non è valido. Usa almeno 2 punti contigui.",
   "CalibrationCommand": "Comando (%)",
   "CalibrationControlCardInstructions": "Usa la scheda seguente per regolare la percentuale della ventola % e osservare i suoi RPM.",
   "CalibrationPointPercent": "Punto %",
+  "CalibrationRpmAscendingError": "Gli RPM devono essere crescenti.",
   "CalibrationSpeed": "Velocità (RPM)",
   "CalibrationTable": "Tabella di calibrazione",
   "ControlHelpPart1": "La sezione \"Controlli\" mostra ogni intestazione/ventola disponibile rilevata.",

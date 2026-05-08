@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Valores de RPM ascendentes",
+  "CalibrationAvoidColumn": "Evitar",
+  "CalibrationAvoidColumnTooltip": "Marca puntos como parte de una región de evitación",
+  "CalibrationAvoidPointTooltip": "Marcar este punto como parte de una región de evitación",
+  "CalibrationAvoidSinglePointError": "Un solo punto de \"Evitar\" no es válido. Usa al menos 2 puntos contiguos.",
   "CalibrationCommand": "Comando (%)",
   "CalibrationControlCardInstructions": "Usa el siguiente panel para ajustar el % de tus ventiladores y observar sus RPM.",
   "CalibrationPointPercent": "Punto %",
+  "CalibrationRpmAscendingError": "Las RPM deben ser ascendentes.",
   "CalibrationSpeed": "Velocidad (RPM)",
   "CalibrationTable": "Panel de calibración",
   "ControlHelpPart1": "La sección \"Controles\" muestra todos los conectores/ventiladores disponibles que se han detectado.",

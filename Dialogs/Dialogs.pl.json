@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "(wartości RPM rosnąco)",
+  "CalibrationAvoidColumn": "Unikaj",
+  "CalibrationAvoidColumnTooltip": "Oznacza punkty jako część obszaru unikania",
+  "CalibrationAvoidPointTooltip": "Oznacz ten punkt jako część obszaru unikania",
+  "CalibrationAvoidSinglePointError": "Pojedynczy punkt \"Unikaj\" jest nieprawidłowy. Użyj co najmniej 2 sąsiadujących punktów.",
   "CalibrationCommand": "Polecenie (%)",
   "CalibrationControlCardInstructions": "Użyj poniższej karty, aby dostosować % prędkości wentylatora i obserwować jego RPM.",
   "CalibrationPointPercent": "Punkt %",
+  "CalibrationRpmAscendingError": "RPM musi rosnąć.",
   "CalibrationSpeed": "Prędkość (RPM)",
   "CalibrationTable": "Tabela kalibracji",
   "ControlHelpPart1": "Sekcja \"Kontrolery\" pokazuje wszystkie dostępne złącza/wentylatory, które zostały wykryte.",

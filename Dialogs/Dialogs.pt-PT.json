@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Valores de RPM crescentes",
+  "CalibrationAvoidColumn": "Evitar",
+  "CalibrationAvoidColumnTooltip": "Marca pontos como parte de uma região de prevenção",
+  "CalibrationAvoidPointTooltip": "Marcar este ponto como parte de uma região de prevenção",
+  "CalibrationAvoidSinglePointError": "Um único ponto \"Evitar\" é inválido. Use pelo menos 2 pontos contíguos.",
   "CalibrationCommand": "Comando (%)",
   "CalibrationControlCardInstructions": "Usa o seguinte cartão para ajustar a % da ventoinha e observar o RPM.",
   "CalibrationPointPercent": "Ponto de %",
+  "CalibrationRpmAscendingError": "Os valores de RPM devem ser crescentes.",
   "CalibrationSpeed": "Velocidade (RPM)",
   "CalibrationTable": "Tabela de Calibração",
   "ControlHelpPart1": "A secção \"Controles\" mostra todos os cabeçalhos e ventoinhas disponíveis que foram detetados.",

@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Vzestupné hodnoty otáček",
+  "CalibrationAvoidColumn": "Vyhnout se",
+  "CalibrationAvoidColumnTooltip": "Označí body jako součást oblasti vyhýbání",
+  "CalibrationAvoidPointTooltip": "Označit tento bod jako součást oblasti vyhýbání",
+  "CalibrationAvoidSinglePointError": "Jeden bod \"Vyhnout se\" je neplatný. Použijte alespoň 2 souvislé body.",
   "CalibrationCommand": "Příkaz v (%)",
   "CalibrationControlCardInstructions": "Pomocí následující karty nastavte % ventilátoru a sledujte jeho otáčky.",
   "CalibrationPointPercent": "Bod v %",
+  "CalibrationRpmAscendingError": "RPM musí být vzestupné.",
   "CalibrationSpeed": "Rychlost (RPM)",
   "CalibrationTable": "Kalibrační tabule",
   "ControlHelpPart1": "V sekci \"Ovládací prvky\" jsou zobrazeny všechny dostupné hlavičky/ventilátory, které jsou detekovány.",

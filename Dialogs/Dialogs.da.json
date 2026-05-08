@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Stigende RPM-værdier",
+  "CalibrationAvoidColumn": "Undgå",
+  "CalibrationAvoidColumnTooltip": "Markerer punkter som en del af et undgå-område",
+  "CalibrationAvoidPointTooltip": "Markér dette punkt som en del af et undgå-område",
+  "CalibrationAvoidSinglePointError": "Et enkelt \"Undgå\"-punkt er ugyldigt. Brug mindst 2 sammenhængende punkter.",
   "CalibrationCommand": "Kommando (%)",
   "CalibrationControlCardInstructions": "Brug følgende kort til at justere din blæser % og observere dens RPM.",
   "CalibrationPointPercent": "Punkt %",
+  "CalibrationRpmAscendingError": "RPM skal være stigende.",
   "CalibrationSpeed": "Hastighed (RPM)",
   "CalibrationTable": "Kalibreringstabel",
   "ControlHelpPart1": "Sektionen \"Kontroller\" viser alle tilgængelige hoveder/blæsere, der er registreret.",

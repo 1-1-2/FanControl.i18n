@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Valori RPM în creștere",
+  "CalibrationAvoidColumn": "Evită",
+  "CalibrationAvoidColumnTooltip": "Marchează punctele ca parte a unei regiuni de evitare",
+  "CalibrationAvoidPointTooltip": "Marchează acest punct ca parte a unei regiuni de evitare",
+  "CalibrationAvoidSinglePointError": "Un singur punct \"Evită\" este invalid. Folosește cel puțin 2 puncte contigue.",
   "CalibrationCommand": "Comandă (%)",
   "CalibrationControlCardInstructions": "Folosiți cardul de mai jos pentru a regla % ventilatorului și pentru a observa RPM-ul.",
   "CalibrationPointPercent": "Punct %",
+  "CalibrationRpmAscendingError": "Valorile RPM trebuie să fie crescătoare.",
   "CalibrationSpeed": "Viteză (RPM)",
   "CalibrationTable": "Tabel de calibrare",
   "ControlHelpPart1": "Secțiunea \"Controale\" afișează fiecare header/ventilator detectat.",

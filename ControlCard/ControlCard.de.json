@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Autom.",
+  "AvoidModeEnabled": "Der Vermeidungsmodus ist aktiv: Das aktuelle Ziel wird angepasst, um außerhalb eines Vermeidungsbereichs zu bleiben.",
   "Calibrate": "Kalibrieren",
   "CalibrateAuto": "Gekoppelte Steuerung automatisch kalibrieren …",
   "Calibrated": "Kalibriert",

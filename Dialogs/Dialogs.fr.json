@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Valeurs RPM ascendantes",
+  "CalibrationAvoidColumn": "Éviter",
+  "CalibrationAvoidColumnTooltip": "Marque les points comme faisant partie d'une zone d'évitement",
+  "CalibrationAvoidPointTooltip": "Marquer ce point comme faisant partie d'une zone d'évitement",
+  "CalibrationAvoidSinglePointError": "Un seul point \"Éviter\" est invalide. Utilisez au moins 2 points contigus.",
   "CalibrationCommand": "Commande (%)",
   "CalibrationControlCardInstructions": "Utilisez la tuile suivante pour ajuster le % de votre ventilateur et observer son RPM.",
   "CalibrationPointPercent": "Point (%)",
+  "CalibrationRpmAscendingError": "Les RPM doivent être croissants.",
   "CalibrationSpeed": "Vitesse (RPM)",
   "CalibrationTable": "Table de calibration",
   "ControlHelpPart1": "La section \"Contrôles\" montre chaque en-tête/ventilateur disponible qui est détecté.",

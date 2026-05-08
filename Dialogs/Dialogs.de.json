@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Aufsteigende RPM-Werte",
+  "CalibrationAvoidColumn": "Vermeiden",
+  "CalibrationAvoidColumnTooltip": "Markiert Punkte als Teil eines Vermeidungsbereichs",
+  "CalibrationAvoidPointTooltip": "Diesen Punkt als Teil eines Vermeidungsbereichs markieren",
+  "CalibrationAvoidSinglePointError": "Ein einzelner \"Vermeiden\"-Punkt ist ungültig. Verwenden Sie mindestens 2 zusammenhängende Punkte.",
   "CalibrationCommand": "Befehl (%)",
   "CalibrationControlCardInstructions": "Mit der folgenden Karte kannst du den Lüfter-%-Wert anpassen und die RPM beobachten.",
   "CalibrationPointPercent": "Punkt-%",
+  "CalibrationRpmAscendingError": "RPM muss aufsteigend sein.",
   "CalibrationSpeed": "Drehzahl (RPM)",
   "CalibrationTable": "Kalibrierungstabelle",
   "ControlHelpPart1": "Der Bereich \"Steuerungen\" zeigt jeden verfügbaren Header/Lüfter, der erkannt wurde.",

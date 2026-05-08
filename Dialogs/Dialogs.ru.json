@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Возрастающие значения RPM",
+  "CalibrationAvoidColumn": "Обход",
+  "CalibrationAvoidColumnTooltip": "Помечает точки как часть зоны обхода",
+  "CalibrationAvoidPointTooltip": "Пометить эту точку как часть зоны обхода",
+  "CalibrationAvoidSinglePointError": "Одна точка \"Обход\" недопустима. Используйте как минимум 2 соседние точки.",
   "CalibrationCommand": "Команда (%)",
   "CalibrationControlCardInstructions": "Используйте следующую карточку для настройки % вентилятора и наблюдайте за его RPM.",
   "CalibrationPointPercent": "Точка %",
+  "CalibrationRpmAscendingError": "RPM должен возрастать.",
   "CalibrationSpeed": "Скорость (RPM)",
   "CalibrationTable": "Таблица калибровки",
   "ControlHelpPart1": "Раздел \"Управление\" показывает все доступные обнаруженные разъёмы/вентиляторы.",

@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "自動",
+  "AvoidModeEnabled": "回避モードが有効です: 現在の目標値は回避領域の外に留まるよう調整されています。",
   "Calibrate": "較正",
   "CalibrateAuto": "対となる制御の自動較正...",
   "Calibrated": "較正済み",

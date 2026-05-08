@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "Automatisk",
+  "AvoidModeEnabled": "Undgå-tilstand er aktiv: det aktuelle mål justeres for at holde sig uden for et undgå-område.",
   "Calibrate": "Kalibrer",
   "CalibrateAuto": "Kalibrer parret kontrol automatisk...",
   "Calibrated": "Kalibreret",

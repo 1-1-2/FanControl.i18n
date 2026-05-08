@@ -1,5 +1,6 @@
 ﻿{
   "Auto": "自动",
+  "AvoidModeEnabled": "避让模式已启用：当前目标正在调整，以保持在避让区域之外。",
   "Calibrate": "校准",
   "CalibrateAuto": "自动校准控制器配对...",
   "Calibrated": "已校准",

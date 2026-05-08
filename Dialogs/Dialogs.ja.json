@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "RPM値の昇順",
+  "CalibrationAvoidColumn": "回避",
+  "CalibrationAvoidColumnTooltip": "ポイントを回避領域の一部としてマークします",
+  "CalibrationAvoidPointTooltip": "このポイントを回避領域の一部としてマーク",
+  "CalibrationAvoidSinglePointError": "単一の「回避」ポイントは無効です。少なくとも 2 つの連続したポイントを使用してください。",
   "CalibrationCommand": "指令値（%）",
   "CalibrationControlCardInstructions": "以下のカードを使用して、ファンの出力（%）を調整し、回転数（RPM）を確認してください",
   "CalibrationPointPercent": "制御点（%）",
+  "CalibrationRpmAscendingError": "RPM は昇順である必要があります。",
   "CalibrationSpeed": "回転速度（RPM）",
   "CalibrationTable": "キャリブレーションテーブル",
   "ControlHelpPart1": "「制御」セクションには、検出されたすべてのヘッダー/ファンが表示されます",

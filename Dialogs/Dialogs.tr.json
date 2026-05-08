@@ -1,8 +1,13 @@
 ﻿{
   "AscendingRpmValues": "Artan RPM değerleri",
+  "CalibrationAvoidColumn": "Kaçın",
+  "CalibrationAvoidColumnTooltip": "Noktaları bir kaçınma bölgesinin parçası olarak işaretler",
+  "CalibrationAvoidPointTooltip": "Bu noktayı bir kaçınma bölgesinin parçası olarak işaretle",
+  "CalibrationAvoidSinglePointError": "Tek bir \"Kaçın\" noktası geçersizdir. En az 2 bitişik nokta kullanın.",
   "CalibrationCommand": "Komut (%)",
   "CalibrationControlCardInstructions": "Fanınızın % oranını ayarlamak ve RPM'sini gözlemlemek için aşağıdaki kartı kullanın.",
   "CalibrationPointPercent": "Nokta %",
+  "CalibrationRpmAscendingError": "RPM artan sırada olmalıdır.",
   "CalibrationSpeed": "Hız (RPM)",
   "CalibrationTable": "Kalibrasyon Tablosu",
   "ControlHelpPart1": "\"Kontroller\" bölümü, tespit edilen tüm mevcut başlıkları/fanları gösterir.",
