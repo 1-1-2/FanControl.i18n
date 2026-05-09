@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Aufsteigende RPM-Werte",
   "CalibrationAvoidColumn": "Vermeiden",
   "CalibrationAvoidColumnTooltip": "Markiert Punkte als Teil eines Vermeidungsbereichs",
-  "CalibrationAvoidGroupsContiguous": "Zusammenhängende Ausschlussgruppen",
+  "CalibrationAvoidPointsContiguous": "Zusammenhängende Vermeidungs-Punkte",
   "CalibrationAvoidPointTooltip": "Diesen Punkt als Teil eines Vermeidungsbereichs markieren",
   "CalibrationAvoidSinglePointError": "Ein einzelner \"Vermeiden\"-Punkt ist ungültig. Verwenden Sie mindestens 2 zusammenhängende Punkte.",
   "CalibrationCommand": "Befehl (%)",

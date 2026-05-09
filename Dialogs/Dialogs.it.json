@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Incremento dei valori RPM",
   "CalibrationAvoidColumn": "Evita",
   "CalibrationAvoidColumnTooltip": "Contrassegna i punti come parte di una regione da evitare",
-  "CalibrationAvoidGroupsContiguous": "Gruppi di esclusione contigui",
+  "CalibrationAvoidPointsContiguous": "Punti di esclusione contigui",
   "CalibrationAvoidPointTooltip": "Contrassegna questo punto come parte di una regione da evitare",
   "CalibrationAvoidSinglePointError": "Un singolo punto \"Evita\" non è valido. Usa almeno 2 punti contigui.",
   "CalibrationCommand": "Comando (%)",

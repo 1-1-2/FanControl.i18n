@@ -2,7 +2,7 @@
   "AscendingRpmValues": "قيم RPM تصاعدي في الدقيقة",
   "CalibrationAvoidColumn": "تجنب",
   "CalibrationAvoidColumnTooltip": "يحدد النقاط كجزء من منطقة تجنب",
-  "CalibrationAvoidGroupsContiguous": "مجموعات التجنب المتجاورة",
+  "CalibrationAvoidPointsContiguous": "نقاط التجنب المتجاورة",
   "CalibrationAvoidPointTooltip": "حدد هذه النقطة كجزء من منطقة تجنب",
   "CalibrationAvoidSinglePointError": "نقطة \"تجنب\" واحدة غير صالحة. استخدم نقطتين متجاورتين على الأقل.",
   "CalibrationCommand": "الأمر (%)",

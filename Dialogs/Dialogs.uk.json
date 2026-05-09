@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Значення обертів за зростанням",
   "CalibrationAvoidColumn": "Уникати",
   "CalibrationAvoidColumnTooltip": "Позначає точки як частину зони уникнення",
-  "CalibrationAvoidGroupsContiguous": "Суміжні групи виключення",
+  "CalibrationAvoidPointsContiguous": "Суміжні точки виключення",
   "CalibrationAvoidPointTooltip": "Позначити цю точку як частину зони уникнення",
   "CalibrationAvoidSinglePointError": "Одна точка \"Уникати\" недійсна. Використайте щонайменше 2 суміжні точки.",
   "CalibrationCommand": "Значення (%)",

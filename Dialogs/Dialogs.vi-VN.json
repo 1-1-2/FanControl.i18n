@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Giá trị RPM tăng dần",
   "CalibrationAvoidColumn": "Tránh",
   "CalibrationAvoidColumnTooltip": "Đánh dấu các điểm là một phần của vùng tránh",
-  "CalibrationAvoidGroupsContiguous": "Nhóm loại trừ liền kề",
+  "CalibrationAvoidPointsContiguous": "Các điểm loại trừ liền kề",
   "CalibrationAvoidPointTooltip": "Đánh dấu điểm này là một phần của vùng tránh",
   "CalibrationAvoidSinglePointError": "Một điểm \"Tránh\" là không hợp lệ. Hãy dùng ít nhất 2 điểm liền kề.",
   "CalibrationCommand": "Lệnh (%)",

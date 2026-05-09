@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Valores de RPM ascendentes",
   "CalibrationAvoidColumn": "Evitar",
   "CalibrationAvoidColumnTooltip": "Marca puntos como parte de una región de evitación",
-  "CalibrationAvoidGroupsContiguous": "Grupos de exclusión contiguos",
+  "CalibrationAvoidPointsContiguous": "Puntos de evitación contiguos",
   "CalibrationAvoidPointTooltip": "Marcar este punto como parte de una región de evitación",
   "CalibrationAvoidSinglePointError": "Un solo punto de \"Evitar\" no es válido. Usa al menos 2 puntos contiguos.",
   "CalibrationCommand": "Comando (%)",

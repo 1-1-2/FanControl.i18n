@@ -2,7 +2,7 @@
   "AscendingRpmValues": "ערכי הסל\"ד בסדר עולה",
   "CalibrationAvoidColumn": "הימנעות",
   "CalibrationAvoidColumnTooltip": "מסמן נקודות כחלק מאזור הימנעות",
-  "CalibrationAvoidGroupsContiguous": "קבוצות הימנעות רציפות",
+  "CalibrationAvoidPointsContiguous": "נקודות הימנעות רציפות",
   "CalibrationAvoidPointTooltip": "סמן נקודה זו כחלק מאזור הימנעות",
   "CalibrationAvoidSinglePointError": "נקודת \"הימנעות\" יחידה אינה תקפה. השתמש לפחות ב-2 נקודות רציפות.",
   "CalibrationCommand": "פקודה (%)",

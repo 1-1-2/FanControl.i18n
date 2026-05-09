@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Valores de RPM crescentes",
   "CalibrationAvoidColumn": "Evitar",
   "CalibrationAvoidColumnTooltip": "Marca pontos como parte de uma região de prevenção",
-  "CalibrationAvoidGroupsContiguous": "Grupos de exclusão contíguos",
+  "CalibrationAvoidPointsContiguous": "Pontos de exclusão contíguos",
   "CalibrationAvoidPointTooltip": "Marcar este ponto como parte de uma região de prevenção",
   "CalibrationAvoidSinglePointError": "Um único ponto \"Evitar\" é inválido. Use pelo menos 2 pontos contíguos.",
   "CalibrationCommand": "Comando (%)",

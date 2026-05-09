@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Növekvő RPM értékek",
   "CalibrationAvoidColumn": "Elkerülés",
   "CalibrationAvoidColumnTooltip": "A pontokat az elkerülési tartomány részeként jelöli",
-  "CalibrationAvoidGroupsContiguous": "Összefüggő kizárási csoportok",
+  "CalibrationAvoidPointsContiguous": "Összefüggő kizárási pontok",
   "CalibrationAvoidPointTooltip": "Pont megjelölése az elkerülési tartomány részeként",
   "CalibrationAvoidSinglePointError": "Egyetlen \"Elkerülés\" pont érvénytelen. Használj legalább 2 egymás melletti pontot.",
   "CalibrationCommand": "Parancs (%)",

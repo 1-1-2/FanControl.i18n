@@ -2,7 +2,7 @@
   "AscendingRpmValues": "Stigende RPM-værdier",
   "CalibrationAvoidColumn": "Undgå",
   "CalibrationAvoidColumnTooltip": "Markerer punkter som en del af et undgå-område",
-  "CalibrationAvoidGroupsContiguous": "Sammenhængende udeladelsesgrupper",
+  "CalibrationAvoidPointsContiguous": "Sammenhængende undgåelsespunkter",
   "CalibrationAvoidPointTooltip": "Markér dette punkt som en del af et undgå-område",
   "CalibrationAvoidSinglePointError": "Et enkelt \"Undgå\"-punkt er ugyldigt. Brug mindst 2 sammenhængende punkter.",
   "CalibrationCommand": "Kommando (%)",

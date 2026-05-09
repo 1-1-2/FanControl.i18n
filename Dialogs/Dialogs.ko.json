@@ -2,7 +2,7 @@
   "AscendingRpmValues": "증가하는 RPM 값",
   "CalibrationAvoidColumn": "회피",
   "CalibrationAvoidColumnTooltip": "포인트를 회피 구간의 일부로 표시합니다",
-  "CalibrationAvoidGroupsContiguous": "연속된 회피 그룹",
+  "CalibrationAvoidPointsContiguous": "연속된 회피 지점",
   "CalibrationAvoidPointTooltip": "이 포인트를 회피 구간의 일부로 표시",
   "CalibrationAvoidSinglePointError": "단일 \"회피\" 포인트는 유효하지 않습니다. 최소 2개의 연속된 포인트를 사용하세요.",
   "CalibrationCommand": "명령 (%)",
