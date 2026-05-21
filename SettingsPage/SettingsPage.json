@@ -18,8 +18,10 @@
   "SelectSensorNickname": "Select a sensor to nickname",
   "SensorNickname": "Sensor nickname (editable)",
   "Sensors": "Sensors",
+  "ServiceConfigurationAdminRequired": "Could not configure FanControl service startup. Ensure FanControl is running as administrator.",
   "StartMinimized": "Start minimized",
-  "StartUserLogon": "Start at user log on",
+  "StartServiceOnBoot": "Start service on boot",
+  "StartUserLogon": "Start app at user log on",
   "Symbol": "Symbol",
   "TaskSchedulerAdminRequired": "Could not set the program to start with Windows in the Task Scheduler. Admin user required."
 }
