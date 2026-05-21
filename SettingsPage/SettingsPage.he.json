@@ -18,7 +18,9 @@
   "SelectSensorNickname": "בחר חיישן לשם כינוי",
   "SensorNickname": "כינוי חיישן (ניתן לעריכה)",
   "Sensors": "חיישנים",
+  "ServiceConfigurationAdminRequired": "לא ניתן להגדיר את אתחול שירות FanControl. ודא ש-FanControl פועל כמנהל מערכת.",
   "StartMinimized": "התחל בחלון ממוזער",
+  "StartServiceOnBoot": "הפעלת השירות בעת אתחול המערכת",
   "StartUserLogon": "התחל בעת כניסת משתמש",
   "Symbol": "סמל",
   "TaskSchedulerAdminRequired": "לא ניתן להגדיר את התוכנית להתחיל עם Windows דרך מתזמן המשימות. נדרש משתמש מנהל."

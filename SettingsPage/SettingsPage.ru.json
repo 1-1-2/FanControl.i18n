@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Выберите датчик для присвоения псевдонима",
   "SensorNickname": "Псевдоним датчика (можно редактировать)",
   "Sensors": "Датчики",
+  "ServiceConfigurationAdminRequired": "Не удалось настроить автозапуск службы FanControl. Убедитесь, что FanControl запущен от имени администратора.",
   "StartMinimized": "Запускать свёрнутым",
+  "StartServiceOnBoot": "Запуск службы при загрузке системы",
   "StartUserLogon": "Запускать при входе пользователя",
   "Symbol": "Символ",
   "TaskSchedulerAdminRequired": "Не удалось настроить в Планировщике задач запуск программы при загрузке Windows. Требуются права администратора."

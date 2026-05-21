@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Chọn cảm biến để đặt tên rút gọn",
   "SensorNickname": "Tên rút gọn cảm biến (chỉnh sửa được)",
   "Sensors": "Cảm biến",
+  "ServiceConfigurationAdminRequired": "Không thể cấu hình khởi động dịch vụ FanControl. Đảm bảo FanControl đang chạy với quyền quản trị.",
   "StartMinimized": "Khởi động thu nhỏ",
+  "StartServiceOnBoot": "Khởi động dịch vụ khi bật máy",
   "StartUserLogon": "Khởi động cùng khi đăng nhập người dùng",
   "Symbol": "Ký hiệu",
   "TaskSchedulerAdminRequired": "Không thể đặt chương trình khởi động cùng Windows trong Task Scheduler. Cần quyền quản trị."

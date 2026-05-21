@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Selecciona un sensor que apodar",
   "SensorNickname": "Apodo del sensor (editable)",
   "Sensors": "Sensores",
+  "ServiceConfigurationAdminRequired": "No se pudo configurar el inicio del servicio FanControl. Asegúrese de que FanControl se esté ejecutando como administrador.",
   "StartMinimized": "Iniciar minimizado",
+  "StartServiceOnBoot": "Iniciar el servicio al arrancar",
   "StartUserLogon": "Iniciar con el usuario",
   "Symbol": "ISO 639",
   "TaskSchedulerAdminRequired": "No se pudo establecer el programa para iniciar con Windows en el programador de tareas. Se requieren permisos de administrador."

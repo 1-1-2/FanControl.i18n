@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Válasszon egy érzékelőt becenév hozzáadásához",
   "SensorNickname": "Érzékelő beceneve (szerkeszthető)",
   "Sensors": "Érzékelők",
+  "ServiceConfigurationAdminRequired": "Nem sikerült beállítani a FanControl szolgáltatás indítását. Győződjön meg róla, hogy a FanControl rendszergazdaként fut.",
   "StartMinimized": "Indítás minimalizálva",
+  "StartServiceOnBoot": "Szolgáltatás indítása rendszerindításkor",
   "StartUserLogon": "Indítás a felhasználói bejelentkezéskor",
   "Symbol": "Szimbólum",
   "TaskSchedulerAdminRequired": "Nem sikerült beállítani, hogy a program a Windows rendszerrel induljon a Feladatütemezőben. Adminisztrátor felhasználó szükséges."

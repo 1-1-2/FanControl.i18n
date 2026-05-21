@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Takma ad eklemek için bir sensör seçin",
   "SensorNickname": "Sensör takma adı (düzenlenebilir)",
   "Sensors": "Sensörler",
+  "ServiceConfigurationAdminRequired": "FanControl hizmeti başlangıcı yapılandırılamadı. FanControl'un yönetici olarak çalıştığından emin olun.",
   "StartMinimized": "Küçültülmüş olarak başlat",
+  "StartServiceOnBoot": "Servisi bilgisayar açılışında başlat",
   "StartUserLogon": "Kullanıcı oturum açıldığında başlat",
   "Symbol": "Sembol",
   "TaskSchedulerAdminRequired": "Programı Görev Zamanlayıcı'da Windows ile başlatacak şekilde ayarlayamadım. Yönetici kullanıcısı gerekli."

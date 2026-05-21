@@ -18,7 +18,9 @@
   "SelectSensorNickname": "选择传感器以设置昵称",
   "SensorNickname": "传感器昵称（可编辑）",
   "Sensors": "传感器",
+  "ServiceConfigurationAdminRequired": "无法配置 FanControl 服务的启动。请确保以管理员身份运行 FanControl。",
   "StartMinimized": "启动时最小化",
+  "StartServiceOnBoot": "开机时启动服务",
   "StartUserLogon": "在用户登录时启动",
   "Symbol": "符号",
   "TaskSchedulerAdminRequired": "无法在计划任务中设置本程序随 Windows 启动。需要以管理员权限运行。"

@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Selecteer een sensor om een ​​bijnaam te geven",
   "SensorNickname": "Sensorbijnaam (bewerkbaar)",
   "Sensors": "Sensoren",
+  "ServiceConfigurationAdminRequired": "Kon de opstartconfiguratie van de FanControl-service niet instellen. Zorg dat FanControl als administrator wordt uitgevoerd.",
   "StartMinimized": "Start geminimaliseerd",
+  "StartServiceOnBoot": "Dienst bij opstarten starten",
   "StartUserLogon": "start bij gebruikersaanmelding",
   "Symbol": "Symbool",
   "TaskSchedulerAdminRequired": "Kan het programma niet instellen om te starten met Windows in de taakplanner. Admin-gebruiker vereist."

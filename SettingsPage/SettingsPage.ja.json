@@ -18,7 +18,9 @@
   "SelectSensorNickname": "センサーにニックネームを付けるセンサーを選択",
   "SensorNickname": "センサーのニックネーム（編集可能）",
   "Sensors": "センサー",
+  "ServiceConfigurationAdminRequired": "FanControl サービスの起動設定を変更できませんでした。FanControl が管理者として実行されていることを確認してください。",
   "StartMinimized": "最小化して開始",
+  "StartServiceOnBoot": "起動時にサービスを開始する",
   "StartUserLogon": "ユーザーのログオン時に開始",
   "Symbol": "記号",
   "TaskSchedulerAdminRequired": "タスクスケジューラでプログラムをWindowsと共に起動する設定ができませんでした。管理者権限が必要です。"

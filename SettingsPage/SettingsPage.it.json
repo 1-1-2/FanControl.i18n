@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Seleziona un sensore da soprannominare",
   "SensorNickname": "Soprannome del sensore (modificabile)",
   "Sensors": "Sensori",
+  "ServiceConfigurationAdminRequired": "Impossibile configurare l'avvio del servizio FanControl. Assicurati che FanControl sia eseguito come amministratore.",
   "StartMinimized": "Avvia ridotto a icona",
+  "StartServiceOnBoot": "Avvia il servizio all'avvio",
   "StartUserLogon": "Avvia all'accesso dell'utente",
   "Symbol": "Simbolo",
   "TaskSchedulerAdminRequired": "Impossibile impostare il programma per l'avvio con Windows nell’Utilità di pianificazione. È richiesto un utente amministratore."

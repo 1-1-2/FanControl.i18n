@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Wybierz czujnik do zmiany nazwy",
   "SensorNickname": "Alternatywna nazwa czujnika (edytowalna)",
   "Sensors": "Czujniki",
+  "ServiceConfigurationAdminRequired": "Nie można skonfigurować uruchamiania usługi FanControl. Upewnij się, że FanControl jest uruchomiony jako administrator.",
   "StartMinimized": "Uruchom zminimalizowany",
+  "StartServiceOnBoot": "Uruchom usługę przy starcie systemu",
   "StartUserLogon": "Uruchom po zalogowaniu",
   "Symbol": "Symbol",
   "TaskSchedulerAdminRequired": "Nie można ustawić uruchamiania programu z systemem Windows przy użyciu Harmonogramu zadań. Wymagany użytkownik z uprawnieniami administratora."

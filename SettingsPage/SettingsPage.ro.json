@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Selectați un senzor pentru poreclă",
   "SensorNickname": "Poreclă senzor (editabilă)",
   "Sensors": "Senzori",
+  "ServiceConfigurationAdminRequired": "Nu s-a putut configura pornirea serviciului FanControl. Asigură-te că FanControl rulează ca administrator.",
   "StartMinimized": "Pornește minimizat",
+  "StartServiceOnBoot": "Pornește serviciul la pornire",
   "StartUserLogon": "Pornește la conectarea utilizatorului",
   "Symbol": "Simbol",
   "TaskSchedulerAdminRequired": "Nu s-a putut seta programul să pornească cu Windows în Task Scheduler. Este necesar un utilizator administrator."

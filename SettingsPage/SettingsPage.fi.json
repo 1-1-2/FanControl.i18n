@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Anna anturille lempinimi",
   "SensorNickname": "Anturin lempinimi (muokattavissa)",
   "Sensors": "Anturit",
+  "ServiceConfigurationAdminRequired": "FanControl-palvelun käynnistysasetuksia ei voitu määrittää. Varmista, että FanControl on käynnissä järjestelmänvalvojana.",
   "StartMinimized": "Käynnistä pienennettynä",
+  "StartServiceOnBoot": "Käynnistä palvelu käynnistyksen yhteydessä",
   "StartUserLogon": "Käynnistä käyttäjän kirjautuessa",
   "Symbol": "Koodi",
   "TaskSchedulerAdminRequired": "Sovellusta ei voitu asettaa käynnistymään Windowsin Tehtävien ajoituksella. Tämä vaatii järjestelmänvalvojan oikeudet."

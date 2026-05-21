@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Vælg en sensor for at tilføje kælenavn",
   "SensorNickname": "Sensor kælenavn (kan redigeres)",
   "Sensors": "Sensorer",
+  "ServiceConfigurationAdminRequired": "Kunne ikke konfigurere FanControl-tjenestens opstart. Sørg for, at FanControl kører som administrator.",
   "StartMinimized": "Start minimeret",
+  "StartServiceOnBoot": "Start tjenesten ved opstart",
   "StartUserLogon": "Start ved brugerlogon",
   "Symbol": "Symbol",
   "TaskSchedulerAdminRequired": "Kunne ikke sætte programmet til at starte med Windows i Opgavestyring. Administratorrettigheder kræves."

@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Vyberte senzor pro přidání přezdívky",
   "SensorNickname": "Přezdívka senzoru (upravitelná)",
   "Sensors": "Senzory",
+  "ServiceConfigurationAdminRequired": "Konfiguraci spouštění služby FanControl se nepodařilo provést. Ujistěte se, že je FanControl spuštěn jako správce.",
   "StartMinimized": "Spustit minimalizované",
+  "StartServiceOnBoot": "Spustit službu při spuštění systému",
   "StartUserLogon": "Spustit při přihlášení uživatele",
   "Symbol": "Symbol",
   "TaskSchedulerAdminRequired": "Nepodařilo se nastavit program, aby se spouštěl s Windows v Plánovači úloh. Je vyžadován administrátorský účet."

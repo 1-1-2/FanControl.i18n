@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Выберыце датчык для прысваення псеўданіма",
   "SensorNickname": "Псеўданім датчыка (можна рэдагаваць)",
   "Sensors": "Датчыкі",
+  "ServiceConfigurationAdminRequired": "Не ўдалося наладзіць запуск службы FanControl. Пераканайцеся, што FanControl запушчаны ад імя адміністратара.",
   "StartMinimized": "Запускаць згорнутым",
+  "StartServiceOnBoot": "Запускаць службу пры загрузцы сістэмы",
   "StartUserLogon": "Запускаць пры ўваходзе карыстальніка",
   "Symbol": "Сімвал",
   "TaskSchedulerAdminRequired": "Не ўдалося наладзіць запуск праграмы з Windows у Планавальніку задач. Патрабуецца карыстальнік з правамі адміністратара."

@@ -18,7 +18,9 @@
   "SelectSensorNickname": "選擇要設定暱稱的感測器",
   "SensorNickname": "感測器暱稱 (可編輯)",
   "Sensors": "感測器",
+  "ServiceConfigurationAdminRequired": "無法配置 FanControl 服務的啟動。請確保以系統管理員身份執行 FanControl。",
   "StartMinimized": "啟動時最小化",
+  "StartServiceOnBoot": "開機時啟動服務",
   "StartUserLogon": "使用者登入時啟動",
   "Symbol": "符號",
   "TaskSchedulerAdminRequired": "無法在工作排程器中設定此程式隨 Windows 啟動。需要系統管理員權限。"

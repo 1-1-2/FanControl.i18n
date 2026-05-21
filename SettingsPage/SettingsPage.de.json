@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Wähle einen Sensor zum Benennen aus",
   "SensorNickname": "Sensorenspitzname (editierbar)",
   "Sensors": "Sensoren",
+  "ServiceConfigurationAdminRequired": "Die FanControl-Dienststartkonfiguration konnte nicht vorgenommen werden. Stellen Sie sicher, dass FanControl mit Administratorrechten ausgeführt wird.",
   "StartMinimized": "Minimiert starten",
+  "StartServiceOnBoot": "Dienst beim Systemstart starten",
   "StartUserLogon": "Bei Benutzeranmeldung starten",
   "Symbol": "Symbol",
   "TaskSchedulerAdminRequired": "Das Programm konnte in der Aufgabenplanung nicht so eingestellt werden, dass es beim Start von Windows ausgeführt wird. Administratorrechte erforderlich."

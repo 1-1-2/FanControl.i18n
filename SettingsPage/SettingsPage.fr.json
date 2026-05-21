@@ -18,7 +18,9 @@
   "SelectSensorNickname": "Sélectionnez un capteur à surnommer",
   "SensorNickname": "Surnom du capteur (modifiable)",
   "Sensors": "Capteurs",
+  "ServiceConfigurationAdminRequired": "Impossible de configurer le démarrage du service FanControl. Assurez-vous que FanControl est exécuté en tant qu'administrateur.",
   "StartMinimized": "Démarrer minimisé",
+  "StartServiceOnBoot": "Démarrer le service au démarrage",
   "StartUserLogon": "Démarrer à l'ouverture de la session utilisateur",
   "Symbol": "Symbole",
   "TaskSchedulerAdminRequired": "Impossible de définir le programme pour démarrer avec Windows dans le Planificateur de tâches. Utilisateur administrateur requis."

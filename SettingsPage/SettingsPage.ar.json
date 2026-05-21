@@ -18,7 +18,9 @@
   "SelectSensorNickname": "حدد جهاز استشعار لللقب",
   "SensorNickname": "لقب المستشعر (قابل للتحرير)",
   "Sensors": "أجهزة الاستشعار",
+  "ServiceConfigurationAdminRequired": "تعذر تكوين بدء تشغيل خدمة FanControl. تأكد من تشغيل FanControl كمسؤول.",
   "StartMinimized": "ابدأ بالتصغير",
+  "StartServiceOnBoot": "تشغيل الخدمة عند بدء التشغيل",
   "StartUserLogon": "ابدأ عند تسجيل دخول المستخدم",
   "Symbol": "رمز",
   "TaskSchedulerAdminRequired": "تعذر ضبط البرنامج ليبدأ مع Windows في برنامج جدولة المهام. مطلوب مستخدم المشرف."

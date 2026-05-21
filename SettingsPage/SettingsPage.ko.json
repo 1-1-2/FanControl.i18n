@@ -18,7 +18,9 @@
   "SelectSensorNickname": "별명을 붙일 센서 선택",
   "SensorNickname": "센서 별칭 (편집 가능)",
   "Sensors": "센서",
+  "ServiceConfigurationAdminRequired": "FanControl 서비스 시작을 구성할 수 없습니다. FanControl이 관리자 권한으로 실행 중인지 확인하십시오.",
   "StartMinimized": "최소화 시작",
+  "StartServiceOnBoot": "부팅 시 서비스 시작",
   "StartUserLogon": "사용자 로그온 시 시작",
   "Symbol": "기호",
   "TaskSchedulerAdminRequired": "작업 스케줄러에서 Windows와 함께 시작되도록 프로그램을 설정할 수 없습니다. 관리자 권한이 필요합니다."
