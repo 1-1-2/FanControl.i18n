@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Lisää ilmaisinalueelle kierroslukukuvake (%)",
   "AddTrayIconTemp": "Lisää ilmaisinalueelle lämpötilakuvake",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Ilmaisinalueen kuvakkeen oletusväri",
   "MissingTrayIconSensor": "Ilmaisinalueen anturi puuttuu",
   "SelectColor": "Valitse ilmaisinalueen kuvakkeen väri kohteelle {0}",

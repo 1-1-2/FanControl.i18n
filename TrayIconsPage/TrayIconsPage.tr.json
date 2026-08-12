@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Sistem tepsisi fan hızı (%) ekle",
   "AddTrayIconTemp": "Sistem tepsisi sıcaklığı ekle",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Varsayılan Sistem Tepsisi Simgesi Rengi",
   "MissingTrayIconSensor": "Eksik sistem tepsisi simgesi sensörü",
   "SelectColor": "{0} için sistem tepsisi simge rengini seçin",

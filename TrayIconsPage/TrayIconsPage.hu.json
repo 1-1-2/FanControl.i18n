@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Ventilátor-sebesség tálcaikon hozzáadása (%)",
   "AddTrayIconTemp": "Hőmérséklet tálcaikon hozzáadása",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Alapértelmezett tálcaikon szín",
   "MissingTrayIconSensor": "Hiányzó tálcaikon érzékelő",
   "SelectColor": "Válassza ki a tálcaikon színét ehhez: {0}",

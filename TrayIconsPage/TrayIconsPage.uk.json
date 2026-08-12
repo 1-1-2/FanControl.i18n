@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Додати піктограму швидкості вентилятора (%) в трей",
   "AddTrayIconTemp": "Додати піктограму температури в трей",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Колір піктограми в треї за замовчуванням",
   "MissingTrayIconSensor": "Відсутній датчик для піктограми в треї",
   "SelectColor": "Виберіть колір значка в треї для {0}",

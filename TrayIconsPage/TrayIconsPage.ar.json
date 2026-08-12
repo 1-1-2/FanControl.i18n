@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "إضافة سرعة مروحة أيقونة الدرج (%)",
   "AddTrayIconTemp": "إضافة درجة حرارة أيقونة الدرج",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "لون أيقونة الدرج الافتراضي",
   "MissingTrayIconSensor": "مستشعر أيقونة الدرج المفقود",
   "SelectColor": "حدد لون أيقونة علبة النظام لـ {0}",

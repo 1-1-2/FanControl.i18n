@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Añadir icono de velocidad (%) del ventilador a la barra de tareas",
   "AddTrayIconTemp": "Añadir icono de temperatura a la barra de tareas",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Color predeterminado del icono de la barra de tareas",
   "MissingTrayIconSensor": "No se encuentra el sensor de la barra de tareas",
   "SelectColor": "Seleccionar el color del icono de la bandeja para {0}",

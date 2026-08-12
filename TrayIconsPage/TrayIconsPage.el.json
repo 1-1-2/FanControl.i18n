@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Προσθήκη εικονιδίου ταχύτητας ανεμιστήρα στη γραμμή εργασιών (%)",
   "AddTrayIconTemp": "Προσθήκη εικονιδίου θερμοκρασίας στη γραμμής εργασιών",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Προεπιλεγμένο Χρώμα Εικονιδίου Γραμμής Εργασιών",
   "MissingTrayIconSensor": "Απών αισθητήρας εικονιδίου γραμμής εργασιών",
   "SelectColor": "Επιλέξτε το χρώμα εικονιδίου της γραμμής εργασιών για {0}",

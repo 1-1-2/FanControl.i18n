@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Дадаць значок у трэй для хуткасці вентылятара (%)",
   "AddTrayIconTemp": "Дадаць значок у трэй для тэмпературы",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Колер значка ў трэі па змаўчанні",
   "MissingTrayIconSensor": "Адсутнічае датчык для значка ў трэі",
   "SelectColor": "Выберыце колер значка ў трэі для {0}",

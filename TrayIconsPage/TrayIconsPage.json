@@ -1,7 +1,9 @@
 ﻿{
   "AddTrayIconSpeed": "Add tray icon fan speed (%)",
   "AddTrayIconTemp": "Add tray icon temperature",
-  "DefaultTrayIconColor": "Default Tray Icon Color",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
+  "DefaultTrayIconColor": "Tray Icon Color",
   "MissingTrayIconSensor": "Missing tray icon sensor",
   "SelectColor": "Select the tray icon color for {0}",
   "SyncIconColor": "Sync icon color with Windows"

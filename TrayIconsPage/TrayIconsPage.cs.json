@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Přidat rychlost ventilátoru do oznamovací oblasti (%)",
   "AddTrayIconTemp": "Přidat teplotu do oznamovací oblasti",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Výchozí barva ikony v oznamovací oblasti",
   "MissingTrayIconSensor": "Chybějící ikona snímače v oznamovací oblasti",
   "SelectColor": "Vyberte barvu ikony v oznamovací oblasti pro {0}",

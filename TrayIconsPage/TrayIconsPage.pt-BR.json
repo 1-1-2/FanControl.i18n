@@ -1,6 +1,8 @@
 ﻿{
   "AddTrayIconSpeed": "Adicionar ícone de velocidade (%) na área de notificação",
   "AddTrayIconTemp": "Adicionar ícone de temperatura na área de notificação",
+  "CustomTrayIcons": "Custom tray icons",
+  "DefaultTrayIcon": "Default tray icon",
   "DefaultTrayIconColor": "Cor padrão do ícone na área de notificação",
   "MissingTrayIconSensor": "Sensor do ícone está ausente",
   "SelectColor": "Selecione a cor do ícone da bandeja para {0}",
